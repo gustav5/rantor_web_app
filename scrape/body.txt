@@ -1,0 +1,1143 @@
+ <!doctype html><html lang="sv" class="no-js webp"><head><meta http-equiv="X-UA-Compatible" content="IE=11,chrome=1"><meta charset="utf-8"><link rel="dns-prefetch" href="//resources.compricer.se"><link rel="dns-prefetch" href="//widget.trustpilot.com"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no"> <title>Jämför sparkonton & sparräntor - Bästa sparräntan | Compricer</title>  <meta name="description" content="Jämför sparkonton och sparräntor på Compricer. Här kan du enkelt och smidigt hitta den bästa sparräntan och skaffa ett bra sparkonto med ränta."><meta name="robots" content="max-image-preview:large"><meta property="fb:app_id" content="176818762335046"><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"><meta name="mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-title" content="Compricer"><meta name="application-name" content="Compricer">  <link rel="shortcut icon" href="https://resources.compricer.se/header/favicon_144x144_new.png"><link rel="apple-touch-icon" href="https://resources.compricer.se/logos/compricer/touch-icon/120.png"><link rel="apple-touch-icon" sizes="152x152" href="https://resources.compricer.se/logos/compricer/touch-icon/152.png"><link rel="apple-touch-icon" sizes="167x167" href="https://resources.compricer.se/logos/compricer/touch-icon/167.png"><link rel="apple-touch-icon" sizes="180x180" href="https://resources.compricer.se/logos/compricer/touch-icon/180.png">   <link rel="canonical" href="https://www.compricer.se/sparande/">  <script>window.gtmSection = "money / savings";
+    window.experimentId = null ;
+    window.variant = null ;  </script>    <script>window.dataLayer = window.dataLayer || [];</script><script>(function(w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({
+        'gtm.start': new Date().getTime(),
+        event: 'gtm.js'
+      });
+      var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s),
+        dl = l != 'dataLayer' ? '&l=' + l : '';
+      j.async = true;
+      j.src =
+        'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-PD52LJX');</script>   <script src="https://resources.compricer.se/js/newrelic/production.js" defer></script>  <script>
+  if (!window.ABse) {
+    window.ABse = {
+      app: {
+        getFontSize: function () {
+          return '';
+        },
+        registerEvent: function () {
+          return {};
+        },
+        setFontSize: function () {
+        },
+        toggleFontSize: function () {
+        }
+      }
+    };
+  }
+</script>
+     <link href="https://resources.compricer.se/frontend/dist/fonts/averta-bold.4cfd21d4.woff2" rel="preload" as="font" crossorigin=""><link href="https://resources.compricer.se/frontend/dist/fonts/averta-regular.42c9f245.woff2" rel="preload" as="font" crossorigin=""><link href="https://resources.compricer.se/frontend/dist/css/vue-page-sparande.a09d9bc2.css" rel="preload" as="style"><link href="https://resources.compricer.se/frontend/dist/js/vue-page-sparande.e73aeff2.js" rel="preload" as="script"><link href="https://resources.compricer.se/frontend/dist/css/chunk-common.6a5587cc.css" rel="preload" as="style"><link href="https://resources.compricer.se/frontend/dist/css/vue-page-sparande.a09d9bc2.css" rel="preload" as="style"><link href="https://resources.compricer.se/frontend/dist/js/chunk-common.e4f1246f.js" rel="preload" as="script"><link href="https://resources.compricer.se/frontend/dist/js/chunk-vendors.aee3d665.js" rel="preload" as="script"><link href="https://resources.compricer.se/frontend/dist/js/runtime.46d6540a.js" rel="preload" as="script"><link href="https://resources.compricer.se/frontend/dist/js/vue-page-sparande.e73aeff2.js" rel="preload" as="script"><link href="https://resources.compricer.se/frontend/dist/css/bootstrap.df08b4c1.css" rel="stylesheet"><link href="https://resources.compricer.se/frontend/dist/css/chunk-common.6a5587cc.css" rel="stylesheet"><link href="https://resources.compricer.se/frontend/dist/css/vue-page-sparande.a09d9bc2.css" rel="stylesheet"></head><body class="preload tw-bg-white">  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PD52LJX" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>  <div class="header-wrapper tw-z-50 tw-sticky tw-top-0">
+    <header class="app-header main-header">
+    <nav
+      id="header-navigation"
+      class="app-nav tw-relative"
+    >
+      <div class="tw-container nav-container">
+        <div class="menu-col-left tw-flex">
+          <div class="menu-logo-block tw-flex">
+            <button
+              aria-haspopup="true"
+              aria-expanded="false"
+              aria-controls="expanded-menu-links"
+              role="menuitem"
+              class="nav-btn menu-btn toggle-menu"
+            ><span
+                aria-label="meny"
+                role="img"
+                class="material-design-icon menu-icon"
+              ><svg
+                  fill="currentColor"
+                  width="24"
+                  height="24"
+                  viewBox="0 0 24 24"
+                  class="material-design-icon__svg"
+                >
+                  <path d="M3,6H21V8H3V6M3,11H21V13H3V11M3,16H21V18H3V16Z">
+                    <title>Menu icon</title>
+                  </path>
+                </svg>
+              </span>
+              <span
+                aria-label="stäng meny"
+                role="img"
+                class="material-design-icon close-icon tw-hidden"
+              >
+                <svg
+                  fill="currentColor"
+                  width="24"
+                  height="24"
+                  viewBox="0 0 24 24"
+                  class="material-design-icon__svg"
+                >
+                  <path d="M19,6.41L17.59,5L12,10.59L6.41,5L5,6.41L10.59,12L5,17.59L6.41,19L12,13.41L17.59,19L19,17.59L13.41,12L19,6.41Z">
+                    <title>Close icon</title>
+                  </path>
+                </svg>
+              </span>
+            </button>
+            <div
+              class="tw-flex tw-flex-col tw-flex-grow md:tw-flex-row md:tw-flex-grow-0"
+            >
+              <a
+                title="Gå till Compricers startsida"
+                href="/"
+                role="menuitem"
+                class="app-logo"
+              >
+                <span
+                  aria-label="Compricer"
+                  role="img"
+                >
+                  <svg
+                    width="180"
+                    height="32"
+                    viewBox="0 0 185 32"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <g>
+                      <path
+                        d="M39.8 27.1c-5.3 0-9.5-3.8-9.5-9.1s4.2-9.2 9.4-9.2c3.6 0 6.2 1.5 7.9 4L43.9 15c-1-1.4-2.3-2.2-4.2-2.2-2.8 0-4.7 2.2-4.7 5.2s1.8 5 4.6 5c1.8 0 3.3-.7 4.4-2.2l3.5 2.3c-1.5 2.5-4.4 4-7.7 4zM48.1 18c0-5.3 4.2-9.2 9.5-9.2s9.5 3.9 9.5 9.2c0 5.3-4.2 9.1-9.5 9.1-5.2 0-9.5-3.8-9.5-9.1zm14.2 0c0-2.9-1.7-5.2-4.7-5.2-2.8 0-4.7 2.2-4.7 5.2s1.8 5 4.7 5c2.8 0 4.7-2 4.7-5zM96.8 15.7v11.1H92V16c0-2.4-1.2-3.2-3-3.2-1.5 0-2.8.7-3.9 1.9v12.1h-4.8V16c0-2.4-1.1-3.2-3-3.2-1.6 0-2.9.8-3.9 2v12h-4.8V9.1h4.5v1.7c1.5-1.3 3.6-2 5.7-2 2.4 0 4.2.8 5.2 2.4 2.1-1.7 4.3-2.4 6.4-2.4 4.1-.1 6.4 2.4 6.4 6.9zM116.8 17.9c0 5.6-4.3 9.3-8.9 9.3-1.9 0-3.4-.6-4.6-1.6V34h-4.8V9.1h4.7v1.4c1.2-1 2.9-1.7 4.7-1.7 4.8-.1 8.9 3.6 8.9 9.1zm-4.8 0c0-3.3-2.4-5.1-4.7-5.1-1.7 0-3.1.7-4.1 1.8v6.7c1 1.1 2.3 1.8 3.9 1.8 2.6 0 4.9-1.8 4.9-5.2zM128.7 8.7v4.6c-.5-.1-.7-.1-1.3-.1-1.5 0-3 .7-4.1 2v11.6h-4.8V9.1h4.5v1.6c1.4-1.4 2.9-2 5.7-2zM130.4 9.1v17.7h4.8V9.1h-4.8zM146 27.1c-5.3 0-9.5-3.8-9.5-9.1s4.2-9.2 9.4-9.2c3.6 0 6.2 1.5 7.9 4l-3.7 2.3c-1-1.4-2.3-2.2-4.2-2.2-2.8 0-4.7 2.2-4.7 5.2s1.8 5 4.6 5c1.8 0 3.3-.7 4.4-2.2l3.5 2.3c-1.5 2.4-4.4 3.9-7.7 3.9zM163.5 23c2 0 3.7-.9 4.8-2.5l3 2.7c-1.8 2.5-4.6 3.9-7.8 3.9-5.6 0-9.4-4.1-9.4-9.1 0-5.1 3.8-9.2 9.4-9.2 5.3 0 9 3.7 9 9.6v.7h-13.6c.3 2.6 2.1 3.9 4.6 3.9zm-4.5-7.1h8.8c-.6-2.2-2.1-3.3-4.2-3.3-2.3.1-3.9 1.3-4.6 3.3zM184 8.7v4.6c-.5-.1-.7-.1-1.3-.1-1.5 0-3 .7-4.1 2v11.6h-4.8V9.1h4.5v1.6c1.4-1.4 2.9-2 5.7-2z"
+                        class="st0"
+                      ></path>
+                      <circle
+                        cx="132.8"
+                        cy="4.2"
+                        r="2.9"
+                        class="st0"
+                      ></circle>
+                    </g>
+                    <g>
+                      <path
+                        fill="#f97fb5"
+                        d="M25.2 4.7c-2.7-2.3-6-3.6-9.6-3.6-3.5 0-6.9 1.3-9.6 3.6l9.6 9.6 9.6-9.6z"
+                      ></path>
+                      <path
+                        fill="#2a7de1"
+                        d="M6 26.7c2.7 2.3 6 3.6 9.6 3.6 3.5 0 6.9-1.3 9.6-3.6l-9.6-9.6L6 26.7z"
+                      ></path>
+                      <path
+                        fill="#ffc600"
+                        d="M4.6 6.1C2.3 8.8 1 12.2 1 15.7s1.3 6.9 3.6 9.6l9.6-9.6-9.6-9.6z"
+                      ></path>
+                    </g>
+                  </svg>
+                </span>
+              </a>
+            </div>
+            <div class="tel phone">
+              <span
+                boundaries-element="viewport"
+                class="phone-button"
+              >
+                <a
+                  class="tippy nav-btn"
+                  href="tel:+46850002000"
+                  aria-label="ring compricer"
+                >
+                  <span
+                    aria-hidden
+                    class="material-design-icon phone-icon"
+                  >
+                    <svg
+                      fill="currentColor"
+                      width="24"
+                      height="24"
+                      viewBox="0 0 24 24"
+                      class="material-design-icon__svg"
+                    >
+                      <path d="M6.62,10.79C8.06,13.62 10.38,15.94 13.21,17.38L15.41,15.18C15.69,14.9 16.08,14.82 16.43,14.93C17.55,15.3 18.75,15.5 20,15.5A1,1 0 0,1 21,16.5V20A1,1 0 0,1 20,21A17,17 0 0,1 3,4A1,1 0 0,1 4,3H7.5A1,1 0 0,1 8.5,4C8.5,5.25 8.7,6.45 9.07,7.57C9.18,7.92 9.1,8.31 8.82,8.59L6.62,10.79Z">
+                      </path>
+                    </svg>
+                  </span>
+                  <div class="tippy-contents tw-hidden">
+                    <div class="tw-whitespace-nowrap">
+                      Vill du ha hjälp?
+                      <b>08-5000 2000</b>
+                    </div>
+                  </div>
+                </a>
+              </span>
+            </div>
+          </div>
+        </div>
+        <div class="menu-col-center">
+          <ul
+            role="menubar"
+            class="popular-links-desktop tw-w-full tw-justify-between lg:tw-justify-start lg:tw-max-w-3xl tw-m-auto tw-flex tw-list-none tw-mb-0 tw-px-0 tw-ml-2 xl:tw-ml-8 "
+          >
+                      </ul>
+        </div>
+        <div class="menu-col-right tw-flex">
+                    <button class="bank-id btn">
+            <a
+              role="menuitem"
+              aria-haspopup="true"
+              title="logga in"
+              aria-label="logga in med bank id"
+              href="/minasidor/#loggain"
+            >
+              <span
+                aria-label="BankId"
+                role="img"
+                class="custom-icon bank-id-icon"
+              >
+                <svg
+                  fill="currentColor"
+                  width="24"
+                  height="24"
+                  viewBox="0 0 24 24"
+                  class="custom-icon__svg"
+                >
+                  <g>
+                    <path
+                      xmlns="http://www.w3.org/2000/svg"
+                      fill-rule="nonzero"
+                      d="M7.438 19.139c.612 0 1.155.252 1.054.92l-.12.758c-.044.265-.031.347.265.353l-.303.707c-.523.038-.776-.019-.902-.246a1.73 1.73 0 0 1-.915.259c-.593 0-.8-.31-.744-.65a.77.77 0 0 1 .271-.455c.328-.283 1.136-.321 1.451-.536.026-.24-.07-.328-.366-.328-.347 0-.637.114-1.135.454l.12-.782c.429-.31.845-.454 1.324-.454zm-2.876-.732c.858 0 1.066.435 1.003.833-.05.322-.272.561-.65.719.48.183.669.467.6.915-.09.561-.575.978-1.212.978h-2.29l.536-3.445h2.013zm6.656.732c.586 0 .858.36.763.946l-.271 1.76h-1.048l.228-1.457c.044-.265-.038-.391-.24-.391-.164 0-.316.088-.46.284l-.24 1.558H8.902l.41-2.656h1.048l-.057.347c.334-.284.587-.391.915-.391zm2.624-.732l-.265 1.69 1.003-.914h1.294l-1.287 1.136 1.034 1.526h-1.318l-.795-1.23h-.013l-.189 1.23h-1.047l.536-3.438h1.047zm3.868 0l-.53 3.438h-1.205l.53-3.438h1.205zm2.309 0c1.331 0 1.716.965 1.59 1.767-.12.782-.738 1.671-1.906 1.671H17.76l.537-3.438h1.722zM7.426 20.69c-.278.177-.795.145-.852.51-.025.171.082.297.252.297.165 0 .366-.069.53-.183a.691.691 0 0 1 .013-.246l.057-.378zm-3.577-.328H3.45l-.151.965h.366v-.006c.403 0 .637-.164.694-.499.044-.29-.12-.46-.511-.46zm15.848-1.142h-.322l-.277 1.804h.315c.587 0 .909-.29 1.003-.902.07-.454-.069-.902-.719-.902zM4.02 18.93h-.347l-.139.902h.347c.391 0 .574-.208.612-.454.038-.265-.082-.448-.473-.448zM9.886 3.038h5.016c4.543 0 7.71 1.994 6.921 6.99-.623 3.936-3.737 6.46-7.585 6.57l-.263.005h-.94l.637-4.064c1.609-.012 2.959-.77 3.237-2.53.296-1.892-.65-2.706-2.417-2.719v-.006H13.2c-.297 0-.682-.17-.783-.435-.031-.089-.094-.385.392-.726.183-.132.504-.397.574-.72a.742.742 0 0 0-.215-.712c-.22-.208-.587-.322-1.066-.322-.801 0-1.407.486-1.476.934-.007.031-.007.063-.007.1 0 .184.07.442.398.688.12.089.24.221.24.398 0 .082-.026.17-.089.271-.168.275-.536.475-.943.516l-.155.008h-.851l.668-4.246h5.016zM7.148 4.722c.379 0 .675.082.827.228.107.1.145.233.113.384-.031.145-.189.335-.435.505-.688.486-.568.984-.517 1.13.143.39.6.618.994.656l.116.006h.89l-.833 5.25h.019c-.296 1.87-.517 3.308-.574 3.672l-.007.043H2.814c.092-.603 1.27-8.067 1.399-8.913l.008-.052h.908c.587-.006 1.136-.278 1.388-.694.246-.404.152-.833-.246-1.13-.132-.1-.284-.258-.252-.454.044-.265.492-.63 1.13-.63z"
+                    ></path>
+                  </g>
+                </svg>
+              </span>
+            </a>
+          </button>
+                    <div
+            class="separator"
+            aria-hidden="true"
+          ></div>
+          <div class="slogan">
+            <span class="slogan-text">Vill du ha hjälp?</span>
+            <a
+              href="tel:+46850002000"
+              class="tel"
+            >
+              08-5000 2000
+            </a>
+          </div>
+        </div>
+      </div>
+    </nav>
+  </header>
+
+  </div>
+  <div id="app-container"><vue-app inline-template ref="app-page" v-cloak><div class="app-inner-container"><vue-snackbar></vue-snackbar><div style="min-height: 100vh"> <vue-header-menu
+  :categories='[{"Name":"F\u00f6rs\u00e4kringar","Id":"insurance","Items":[{"Label":"ATV-f\u00f6rs\u00e4kring","Url":"\/forsakring\/atv\/"},{"Label":"Barnf\u00f6rs\u00e4kring","Url":"\/forsakring\/barn\/"},{"Label":"Bilf\u00f6rs\u00e4kring","Url":"\/forsakring\/bil\/"},{"Label":"B\u00e5tf\u00f6rs\u00e4kring","Url":"\/forsakring\/bat\/"},{"Label":"Fritidshusf\u00f6rs\u00e4kring","Url":"\/forsakring\/fritidshus\/"},{"Label":"Hemf\u00f6rs\u00e4kring","Url":"\/forsakring\/hem\/"},{"Label":"Hundf\u00f6rs\u00e4kring","Url":"\/forsakring\/hund\/"},{"Label":"Inkomstf\u00f6rs\u00e4kring","Url":"\/forsakring\/inkomst\/"},{"Label":"MC-f\u00f6rs\u00e4kring","Url":"\/forsakring\/motorcykel\/"},{"Label":"Olycksfallsf\u00f6rs\u00e4kring","Url":"\/forsakring\/olycksfall\/"},{"Label":"Sn\u00f6skoterf\u00f6rs\u00e4kring","Url":"\/forsakring\/snoskoter\/"},{"Label":"Villaf\u00f6rs\u00e4kring","Url":"\/forsakring\/villa\/"},{"Label":"Allt om f\u00f6rs\u00e4kringar","Url":"\/forsakring\/"}]},{"Name":"El","Id":"power","Items":[{"Label":"Elavtal","Url":"\/el\/avtal\/"},{"Label":"Elbolag","Url":"\/el\/bolag\/"},{"Label":"Elpriser","Url":"\/el\/priser\/"},{"Label":"J\u00e4mf\u00f6r el","Url":"\/el\/"},{"Label":"Milj\u00f6v\u00e4nlig el","Url":"\/el\/miljovanlig\/"}]},{"Name":"Bol\u00e5n","Id":"mortgage","Items":[{"Label":"Bol\u00e5n","Url":"\/bolan\/"},{"Label":"Omf\u00f6rhandla","Url":"\/bolan\/omforhandla\/"},{"Label":"Nytt l\u00e5n","Url":"\/bolan\/nyttlan\/"},{"Label":"L\u00e5nel\u00f6fte","Url":"\/bolan\/lanelofte\/"},{"Label":"Bol\u00e5ner\u00e4ntor","Url":"\/borantor\/"},{"Label":"Sv\u00e5rt att f\u00e5 bol\u00e5n","Url":"\/bolan\/svart-att-fa-bolan\/"}]},{"Name":"L\u00e5n","Id":"loan","Items":[{"Label":"Bill\u00e5n","Url":"\/billan\/"},{"Label":"Kreditkort","Url":"\/kreditkort\/"},{"Label":"Privatl\u00e5n","Url":"\/privatlan\/"},{"Label":"Sv\u00e5rt att f\u00e5 l\u00e5n","Url":"\/svartattfalan\/"},{"Label":"Allt om l\u00e5n","Url":"\/lan\/"}]},{"Name":"Sparande","Id":"saving","Items":[{"Label":"Aktiehandel","Url":"\/aktier\/"},{"Label":"Premiepension","Url":"\/pension\/premie\/"},{"Label":"Privatpension","Url":"\/pension\/privat\/"},{"Label":"Sparkonto","Url":"\/sparande\/"},{"Label":"Tj\u00e4nstepension","Url":"\/pension\/tjanste\/"}]},{"Name":"Bredband","Id":"broadband","Items":[{"Label":"Bredband","Url":"\/bredband\/"}]},{"Name":"Tips & R\u00e5d","Id":"advice","Items":[{"Label":"Ekonomiskolan","Url":"\/ekonomiskolan\/"},{"Label":"Expertpanelen","Url":"\/expertpanelen\/"},{"Label":"Nyheter","Url":"\/nyheter\/"},{"Label":"Tips & R\u00e5d","Url":"\/tips-rad\/"}]}]'
+  :popular-links='[{"Label":"Bilf\u00f6rs\u00e4kring","Url":"\/forsakring\/bil\/"},{"Label":"Privatl\u00e5n","Url":"\/privatlan\/"},{"Label":"Bol\u00e5n","Url":"\/bolan\/"},{"Label":"Hemf\u00f6rs\u00e4kring","Url":"\/forsakring\/hem\/"},{"Label":"Villaf\u00f6rs\u00e4kring","Url":"\/forsakring\/villa\/"},{"Label":"El","Url":"\/el\/"},{"Label":"Bredband","Url":"\/bredband\/"},{"Label":"Sparkonto","Url":"\/sparande\/"},{"Label":"Kreditkort","Url":"\/kreditkort\/","Platform":"desktop"},{"Label":"Tips & R\u00e5d","Url":"\/tips-rad\/"}]'
+  :new-menu-links='[{"Name":"F\u00f6rs\u00e4kringar","Url":"\/forsakring\/","Id":"insurance","Items":[{"Label":"Bilf\u00f6rs\u00e4kring","Url":"\/forsakring\/bil\/","IconSSR":"Car","IconVue":"CarHeadIcon","IconColorClass":"tw-text-yellow-500"},{"Label":"Hemf\u00f6rs\u00e4kring","Url":"\/forsakring\/hem\/","IconSSR":"Apartment","IconVue":"ApartmentIcon","IconColorClass":"tw-text-blue-500"},{"Label":"Villaf\u00f6rs\u00e4kring","Url":"\/forsakring\/villa\/","IconSSR":"HomeOutline","IconVue":"HomeOutlineIcon","IconColorClass":"tw-text-green-500"},{"Label":"B\u00e5tf\u00f6rs\u00e4kring","Url":"\/forsakring\/bat\/","IconSSR":"Boat","IconVue":"BoatIcon","IconColorClass":"tw-text-blue-500"},{"Label":"Hundf\u00f6rs\u00e4kring","Url":"\/forsakring\/hund\/","IconSSR":"Pet","IconVue":"PetIcon","IconColorClass":"tw-text-pink-500"},{"Label":"Sn\u00f6skoterf\u00f6rs\u00e4kring","Url":"\/forsakring\/snoskoter\/","IconSSR":"Snowmobile","IconVue":"SnowmobileIcon","IconColorClass":"tw-text-blue-500"},{"Label":"Olycksfallsf\u00f6rs\u00e4kring","Url":"\/forsakring\/olycksfall\/","IconSSR":"Accident","IconVue":"AccidentIcon","IconColorClass":"tw-text-blue-500"},{"Label":"ATV-f\u00f6rs\u00e4kring","Url":"\/forsakring\/atv\/"},{"Label":"Fritidshusf\u00f6rs\u00e4kring","Url":"\/forsakring\/fritidshus\/"},{"Label":"MC-f\u00f6rs\u00e4kring","Url":"\/forsakring\/motorcykel\/"},{"Label":"Barnf\u00f6rs\u00e4kring","Url":"\/forsakring\/barn\/"},{"Label":"Inkomstf\u00f6rs\u00e4kring","Url":"\/forsakring\/inkomst\/"},{"Label":"Allt om f\u00f6rs\u00e4kringar","Url":"\/forsakring\/"}]},{"Name":"L\u00e5n","Url":"\/privatlan\/","Id":"loan","Items":[{"Label":"Privatl\u00e5n","Url":"\/privatlan\/","IconSSR":"Cash","IconVue":"CashIcon","IconColorClass":"tw-text-blue-600"},{"Label":"Kreditkort","Url":"\/kreditkort\/","IconSSR":"Creditcard","IconVue":"CreditCardThickIcon","IconColorClass":"tw-text-green-500"},{"Label":"Bill\u00e5n","Url":"\/billan\/","IconSSR":"Car","IconVue":"CarHeadIcon","IconColorClass":"tw-text-yellow-500"},{"Label":"Sv\u00e5rt att f\u00e5 l\u00e5n","Url":"\/svartattfalan\/"},{"Label":"Allt om l\u00e5n","Url":"\/lan\/"}]},{"Name":"Bol\u00e5n","Url":"\/bolan\/","Id":"mortgage","Items":[{"Label":"Bol\u00e5n","Url":"\/bolan\/","IconSSR":"Home","IconVue":"HouseApartment","IconColorClass":"tw-text-green-500"},{"Label":"Omf\u00f6rhandla","Url":"\/bolan\/omforhandla\/"},{"Label":"Nytt l\u00e5n","Url":"\/bolan\/nyttlan\/"},{"Label":"Bol\u00e5ner\u00e4ntor","Url":"\/borantor\/"},{"Label":"L\u00e5nel\u00f6fte","Url":"\/bolan\/lanelofte\/"},{"Label":"Sv\u00e5rt att f\u00e5 bol\u00e5n","Url":"\/bolan\/svart-att-fa-bolan\/"}]},{"Name":"El","Url":"\/el\/","Id":"power","Items":[{"Label":"J\u00e4mf\u00f6r el","Url":"\/el\/","IconSSR":"PowerThick","IconVue":"PowerThickIcon","IconColorClass":"tw-text-pink-500"},{"Label":"Elavtal","Url":"\/el\/avtal\/"},{"Label":"Elbolag","Url":"\/el\/bolag\/"},{"Label":"Elpriser","Url":"\/el\/priser\/"},{"Label":"Milj\u00f6v\u00e4nlig el","Url":"\/el\/miljovanlig\/"}]},{"Name":"Sparande","Url":"\/sparande\/","Id":"saving","Items":[{"Label":"Sparkonto","Url":"\/sparande\/","IconSSR":"PiggyBank","IconVue":"SavingsIcon","IconColorClass":"tw-text-blue-500"},{"Label":"Premiepension","Url":"\/pension\/premie\/"},{"Label":"Privatpension","Url":"\/pension\/privat\/"},{"Label":"Aktiehandel","Url":"\/aktier\/"},{"Label":"Tj\u00e4nstepension","Url":"\/pension\/tjanste\/"}]},{"Name":"Bredband","Url":"\/bredband\/","Id":"broadband","Items":[{"Label":"Bredband","Url":"\/bredband\/","IconSSR":"Broadband","IconVue":"BroadBandIcon","IconColorClass":"tw-text-yellow-500"}]},{"Name":"Tips & R\u00e5d","Url":"\/tips-rad\/","Id":"advice","Items":[{"Label":"Tips & R\u00e5d","Url":"\/tips-rad\/","IconSSR":"HandShakeMaterial","IconVue":"HandShakeThickIcon","IconColorClass":"tw-text-purple-600"},{"Label":"Nyheter","Url":"\/nyheter\/"},{"Label":"Ekonomiskolan","Url":"\/ekonomiskolan\/"},{"Label":"Expertpanelen","Url":"\/expertpanelen\/"}]}]'
+  :cta-menu='[{"Id":"carinsurance","Label":"Bilf\u00f6rs\u00e4kring","Url":"\/forsakring\/bil\/","Color":"yellow"},{"Id":"privateloan","Label":"Privatl\u00e5n","Url":"\/privatlan\/","Color":"green"},{"Id":"mortgage","Label":"Bol\u00e5n","Url":"\/bolan\/","Color":"pink"},{"Id":"power","Label":"El","Url":"\/el\/","Color":"pink"},{"Id":"flatinsurance","Label":"Hemf\u00f6rs\u00e4kring","Url":"\/forsakring\/hem\/","Platform":"desktop","Color":"blue"},{"Id":"houseinsurance","Label":"Villaf\u00f6rs\u00e4kring","Url":"\/forsakring\/villa\/","Color":"green"},{"Label":"B\u00e5tf\u00f6rs\u00e4kring","Url":"\/forsakring\/bat\/","Color":"blue"},{"Id":"savings","Label":"Sparkonto","Url":"\/sparande\/","Color":"blue"},{"Id":"boradband","Label":"Bredband","Url":"\/bredband\/","Color":"yellow"}]'
+>    </vue-header-menu>
+<nav class="tw-hidden">
+  <ul>
+            <li><a href="/forsakring/bil/">Bilförsäkring</a></li>
+                <li><a href="/privatlan/">Privatlån</a></li>
+                <li><a href="/bolan/">Bolån</a></li>
+                <li><a href="/forsakring/hem/">Hemförsäkring</a></li>
+                <li><a href="/forsakring/villa/">Villaförsäkring</a></li>
+                <li><a href="/el/">El</a></li>
+                <li><a href="/bredband/">Bredband</a></li>
+                <li><a href="/sparande/">Sparkonto</a></li>
+                <li><a href="/kreditkort/">Kreditkort</a></li>
+                <li><a href="/tips-rad/">Tips & Råd</a></li>
+                <li>
+      Försäkringar      <ul>
+                <li><a href="/forsakring/atv/">ATV-försäkring</a></li>
+                <li><a href="/forsakring/barn/">Barnförsäkring</a></li>
+                <li><a href="/forsakring/bil/">Bilförsäkring</a></li>
+                <li><a href="/forsakring/bat/">Båtförsäkring</a></li>
+                <li><a href="/forsakring/fritidshus/">Fritidshusförsäkring</a></li>
+                <li><a href="/forsakring/hem/">Hemförsäkring</a></li>
+                <li><a href="/forsakring/hund/">Hundförsäkring</a></li>
+                <li><a href="/forsakring/inkomst/">Inkomstförsäkring</a></li>
+                <li><a href="/forsakring/motorcykel/">MC-försäkring</a></li>
+                <li><a href="/forsakring/olycksfall/">Olycksfallsförsäkring</a></li>
+                <li><a href="/forsakring/snoskoter/">Snöskoterförsäkring</a></li>
+                <li><a href="/forsakring/villa/">Villaförsäkring</a></li>
+                <li><a href="/forsakring/">Allt om försäkringar</a></li>
+              </ul>
+    </li>
+        <li>
+      El      <ul>
+                <li><a href="/el/avtal/">Elavtal</a></li>
+                <li><a href="/el/bolag/">Elbolag</a></li>
+                <li><a href="/el/priser/">Elpriser</a></li>
+                <li><a href="/el/">Jämför el</a></li>
+                <li><a href="/el/miljovanlig/">Miljövänlig el</a></li>
+              </ul>
+    </li>
+        <li>
+      Bolån      <ul>
+                <li><a href="/bolan/">Bolån</a></li>
+                <li><a href="/bolan/omforhandla/">Omförhandla</a></li>
+                <li><a href="/bolan/nyttlan/">Nytt lån</a></li>
+                <li><a href="/bolan/lanelofte/">Lånelöfte</a></li>
+                <li><a href="/borantor/">Bolåneräntor</a></li>
+                <li><a href="/bolan/svart-att-fa-bolan/">Svårt att få bolån</a></li>
+              </ul>
+    </li>
+        <li>
+      Lån      <ul>
+                <li><a href="/billan/">Billån</a></li>
+                <li><a href="/kreditkort/">Kreditkort</a></li>
+                <li><a href="/privatlan/">Privatlån</a></li>
+                <li><a href="/svartattfalan/">Svårt att få lån</a></li>
+                <li><a href="/lan/">Allt om lån</a></li>
+              </ul>
+    </li>
+        <li>
+      Sparande      <ul>
+                <li><a href="/aktier/">Aktiehandel</a></li>
+                <li><a href="/pension/premie/">Premiepension</a></li>
+                <li><a href="/pension/privat/">Privatpension</a></li>
+                <li><a href="/sparande/">Sparkonto</a></li>
+                <li><a href="/pension/tjanste/">Tjänstepension</a></li>
+              </ul>
+    </li>
+        <li>
+      Bredband      <ul>
+                <li><a href="/bredband/">Bredband</a></li>
+              </ul>
+    </li>
+        <li>
+      Tips & Råd      <ul>
+                <li><a href="/ekonomiskolan/">Ekonomiskolan</a></li>
+                <li><a href="/expertpanelen/">Expertpanelen</a></li>
+                <li><a href="/nyheter/">Nyheter</a></li>
+                <li><a href="/tips-rad/">Tips & Råd</a></li>
+              </ul>
+    </li>
+      </ul>
+</nav>
+    <div class="page-content"> <vue-page-sparande inline-template>
+  <article class="sparande">
+    <header class="ui-main-header tw-mb-0 tw-pb-4 tw-shadow-none">
+      <div class="ui-main-header__container">
+          <nav class="ui-site-breadcrumbs ">
+                  <a class="ui-site-breadcrumbs__item "
+           href="/"><svg width="16" height="16" viewBox="0 0 24 24"><path fill="currentColor" d="M10,20V14H14V20H19V12H22L12,3L2,12H5V20H10Z" /></svg></a>
+                        <a class="ui-site-breadcrumbs__item "
+           href="/pengar/">Sparande</a>
+                        <span class="ui-site-breadcrumbs__item">Sparkonto</span>
+            </nav>
+    <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+              {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@id": "https://www.compricer.se/",
+            "name": "Compricer"
+          }
+        },            {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@id": "https://www.compricer.se/pengar/",
+            "name": "Sparande"
+          }
+        },            {
+          "@type": "ListItem",
+          "position": 3,
+          "item": {
+            "@id": "https://www.compricer.se/sparande/",
+            "name": "Sparkonto"
+          }
+        }          ]
+    }
+
+  </script>
+        <h1 class="ui-main-header__title">
+          Jämför sparkonton och sparräntor        </h1>
+      </div>
+    </header>
+    <div class="container tw-px-3 tw-mb-10 md:tw-mx-auto lg:tw-relative">
+      <p class="tw-text-sm tw-text-gray-800 md:tw-text-sm lg:tw-text-base lg:tw-mb-4 lg:tw-w-4/5">
+        Jämför sparräntor och sparkonton. Hitta den bästa sparräntan och skaffa ett bra sparkonto med ränta.      </p>
+      <div class="tw-hidden tw-absolute tw--mt-16 tw-right-0 tw-top-0 tw-mr-8 tw-overflow-hidden lg:tw-block">
+        <vue-piggy-icon
+          :size="480"
+          class="tw-text-yellow-200 tw--mr-40"
+        ></vue-piggy-icon>
+      </div>
+
+      <vue-saving-interest-rate-table
+        :default-providers='[{"ProviderName":"Nordax Bank sparkonto","ProviderLogoUrl":"https:\/\/resources.compricer.se\/logos\/big\/551.png","Pay":true,"Description":"Nordax vann årets sparränta 2018! Öppna ett sparkonto enkelt och tryggt med bra ränta och fria uttag hos Nordax. Börja spara redan idag för framtida idéer, projekt eller äventyr.","Slug":"nordaxbanksparkonto","DepositGuarantee":"\u003Cspan class=\u0022ui-bracket-markup ui-bracket-markup__check\u0022\u003E\u003C\/span\u003E","DepositGuaranteeInfo":"","HasDepositGuarantee":true,"BankInfoText":"om Nordax Bank sparkonto","BankInfoUrl":"bank\/nordaxbanksparkonto\/","ClickUrl":"\/click\/?providerid=53\u0026serviceid=15\u0026platform=desktop\u0026domain=www.compricer.se","SavingsAmount":"10 000 - 1 050 000 kr","Rate":"2,35 - 3,25 %","BindTime":"0 mån - 2 år","HasFreeWithdrawals":true,"NumberOfFreeWithdrawals":"Inga - Obegränsat","ProviderHighResLogoUrl":"https:\/\/resources.compricer.se\/logos\/svg\/new\/551.svg","ShortDescription":"Nordax vann årets sparränta 2018! Öppna ett sparkonto enkelt och tryggt...","ShowShortDescription":true},{"ProviderName":"Erik Penser Bank sparkonto","ProviderLogoUrl":"https:\/\/resources.compricer.se\/logos\/big\/1078.png","Pay":true,"Description":"Erik Penser Bank erbjuder tryggt sparande genom sina fastränteplaceringar med statlig insättningsgaranti. Ingen öppningsavgift, årsavgift eller annan fast avgift.","Slug":"erikpenserbanksparkonto","DepositGuarantee":"\u003Cspan class=\u0022ui-bracket-markup ui-bracket-markup__check\u0022\u003E\u003C\/span\u003E","DepositGuaranteeInfo":"Insättningsgarantin täcker upp till 1 050 000 kronor per kund och institut. Erik Penser Bank erbjuder sparkonto under eget namn samt genom sparprodukten Rocker. Skulle du ha två eller fler konton hos både Erik Penser Bank och Rocker läggs beloppen samman och omfattas av den maximala gränsen på 1 050 000 kronor.","HasDepositGuarantee":true,"BankInfoText":"om Erik Penser Bank sparkonto","BankInfoUrl":"bank\/erikpenserbanksparkonto\/","ClickUrl":"\/click\/?providerid=104\u0026serviceid=15\u0026platform=desktop\u0026domain=www.compricer.se","SavingsAmount":"25 000 - 1 050 000 kr","Rate":"1,50 - 3,10 %","BindTime":"0 mån - 2 år","HasFreeWithdrawals":false,"NumberOfFreeWithdrawals":"Inga","ProviderHighResLogoUrl":"https:\/\/resources.compricer.se\/logos\/svg\/new\/1078.svg","ShortDescription":"Erik Penser Bank erbjuder tryggt sparande genom sina fastränteplaceringar...","ShowShortDescription":true},{"ProviderName":"Nordiska sparkonto","ProviderLogoUrl":"https:\/\/resources.compricer.se\/logos\/big\/982.png","Pay":true,"Description":"Hos Nordiska sparar du både säkert och smart till några av marknadens mest fördelaktiga villkor. Vi erbjuder fasträntekonton med löptider mellan 1-5 år. Självklart omfattas ditt sparande av den statliga insättningsgarantin.","Slug":"nordiskasparkonto","DepositGuarantee":"\u003Cspan class=\u0022ui-bracket-markup ui-bracket-markup__check\u0022\u003E\u003C\/span\u003E","DepositGuaranteeInfo":"","HasDepositGuarantee":true,"BankInfoText":"om Nordiska sparkonto","BankInfoUrl":"bank\/nordiskasparkonto\/","ClickUrl":"\/click\/?providerid=80\u0026serviceid=15\u0026platform=desktop\u0026domain=www.compricer.se","SavingsAmount":"Obegränsat","Rate":"1,05 - 3,15 %","BindTime":"0 mån - 5 år","HasFreeWithdrawals":true,"NumberOfFreeWithdrawals":"Inga - Obegränsat","ProviderHighResLogoUrl":"https:\/\/resources.compricer.se\/logos\/svg\/new\/982.svg","ShortDescription":"Hos Nordiska sparar du både säkert och smart till några av marknadens mest...","ShowShortDescription":true},{"ProviderName":"Borgo","ProviderLogoUrl":"https:\/\/resources.compricer.se\/logos\/big\/1176.png","Pay":true,"Description":"Hos Borgo erbjuds du konkurrenskraftig ränta och fria uttag på ett sparande som du vet enbart används till finansiering av bolån. Borgo är ett nytt svenskt hypoteksbolag som samägs av ICA Banken, Ikano Bank, Söderberg \u0026 Partners, Sparbanken Syd och Ålandsbanken","Slug":"borgo","DepositGuarantee":"\u003Cspan class=\u0022ui-bracket-markup ui-bracket-markup__check\u0022\u003E\u003C\/span\u003E","DepositGuaranteeInfo":"","HasDepositGuarantee":true,"BankInfoText":"om Borgo","BankInfoUrl":"bank\/borgo\/","ClickUrl":"\/click\/?providerid=124\u0026serviceid=15\u0026platform=desktop\u0026domain=www.compricer.se","SavingsAmount":"1 - 1 050 000 kr","Rate":"1,75 - 2,75 %","BindTime":"0 mån - 3 år","HasFreeWithdrawals":true,"NumberOfFreeWithdrawals":"Inga - Obegränsat","ProviderHighResLogoUrl":"https:\/\/resources.compricer.se\/logos\/svg\/new\/1176.svg","ShortDescription":"Hos Borgo erbjuds du konkurrenskraftig ränta och fria uttag på ett sparande...","ShowShortDescription":true},{"ProviderName":"Avida Finans sparkonto","ProviderLogoUrl":"https:\/\/resources.compricer.se\/logos\/big\/491.png","Pay":true,"Description":"AvidaSpar är det enkla sparkontot. Du får en hög sparränta från första dagen och första kronan, och kontot har heller inga avgifter eller bindningstider.","Slug":"avidafinanssparkonto","DepositGuarantee":"\u003Cspan class=\u0022ui-bracket-markup ui-bracket-markup__check\u0022\u003E\u003C\/span\u003E","DepositGuaranteeInfo":"","HasDepositGuarantee":true,"BankInfoText":"om Avida Finans sparkonto","BankInfoUrl":"bank\/avidafinanssparkonto\/","ClickUrl":"\/click\/?providerid=29\u0026serviceid=15\u0026platform=desktop\u0026domain=www.compricer.se","SavingsAmount":"1 000 - 1 050 000 kr","Rate":"1,90 %","BindTime":"Rörlig ränta","HasFreeWithdrawals":true,"NumberOfFreeWithdrawals":"Obegränsat","ProviderHighResLogoUrl":"https:\/\/resources.compricer.se\/logos\/svg\/new\/491.svg","ShortDescription":"AvidaSpar är det enkla sparkontot. Du får en hög sparränta från första...","ShowShortDescription":true},{"ProviderName":"SevenDay Bank sparkonto","ProviderLogoUrl":"https:\/\/resources.compricer.se\/logos\/big\/545.png","Pay":true,"Description":"Spara med hög ränta och på det sätt som passar dig bäst. Välj helt fria uttag eller bind ditt sparande. Oavsett hur du sparar kan du kostnadsfritt ta ut din intjänade ränta varje månad.\u003Cbr\/\u003EVårt sparkonto utsågs till Årets Konto 2015 av Privata Affärer.","Slug":"sevendaybank","DepositGuarantee":"\u003Cspan class=\u0022ui-bracket-markup ui-bracket-markup__check\u0022\u003E\u003C\/span\u003E","DepositGuaranteeInfo":"","HasDepositGuarantee":true,"BankInfoText":"om SevenDay Bank sparkonto","BankInfoUrl":"bank\/sevendaybank\/","ClickUrl":"\/click\/?providerid=58\u0026serviceid=15\u0026platform=desktop\u0026domain=www.compricer.se","SavingsAmount":"Max 1 000 000 kr","Rate":"2,05 - 2,80 %","BindTime":"0 mån - 3 år","HasFreeWithdrawals":true,"NumberOfFreeWithdrawals":"Inga - Obegränsat","ProviderHighResLogoUrl":"https:\/\/resources.compricer.se\/logos\/svg\/new\/545.svg","ShortDescription":"Spara med hög ränta och på det sätt som passar dig bäst. Välj helt fria...","ShowShortDescription":true},{"ProviderName":"Aros Kapital sparkonto","ProviderLogoUrl":"https:\/\/resources.compricer.se\/logos\/big\/1046.png","Pay":true,"Description":"Aros erbjuder löptider om 3, 6 och 12 månader för ett enkelt, smidigt och säkert sparande. Sparkontona täcks av den statliga insättningsgarantin med upp till 950 000 kr.","Slug":"aroskapital","DepositGuarantee":"\u003Cspan class=\u0022ui-bracket-markup ui-bracket-markup__check\u0022\u003E\u003C\/span\u003E","DepositGuaranteeInfo":"","HasDepositGuarantee":true,"BankInfoText":"om Aros Kapital sparkonto","BankInfoUrl":"bank\/aroskapital\/","ClickUrl":"\/click\/?providerid=94\u0026serviceid=15\u0026platform=desktop\u0026domain=www.compricer.se","SavingsAmount":"Max 1 050 000 kr","Rate":"2,00 - 2,95 %","BindTime":"0 mån - 12 mån","HasFreeWithdrawals":true,"NumberOfFreeWithdrawals":"Inga - Obegränsat","ProviderHighResLogoUrl":"https:\/\/resources.compricer.se\/logos\/svg\/new\/1046.svg","ShortDescription":"Aros erbjuder löptider om 3, 6 och 12 månader för ett enkelt, smidigt och...","ShowShortDescription":true},{"ProviderName":"Carnegie sparkonto","ProviderLogoUrl":"https:\/\/resources.compricer.se\/logos\/big\/1033.png","Pay":true,"Description":"Carnegie erbjuder ett flexibelt sparkonto med bra ränta och fria uttag. Inga avgifter eller bindningstider. Sparkontot omfattas av den statliga insättningsgarantin","Slug":"carnegiesparkonto","DepositGuarantee":"\u003Cspan class=\u0022ui-bracket-markup ui-bracket-markup__check\u0022\u003E\u003C\/span\u003E","DepositGuaranteeInfo":"","HasDepositGuarantee":true,"BankInfoText":"om Carnegie sparkonto","BankInfoUrl":"bank\/carnegiesparkonto\/","ClickUrl":"\/click\/?providerid=93\u0026serviceid=15\u0026platform=desktop\u0026domain=www.compricer.se","SavingsAmount":"Max 900 000 kr","Rate":"1,00 %","BindTime":"Rörlig ränta","HasFreeWithdrawals":true,"NumberOfFreeWithdrawals":"Obegränsat","ProviderHighResLogoUrl":"https:\/\/resources.compricer.se\/logos\/svg\/new\/1033.svg","ShortDescription":"Carnegie erbjuder ett flexibelt sparkonto med bra ränta och fria uttag....","ShowShortDescription":true},{"ProviderName":"Marginalen sparkonto","ProviderLogoUrl":"https:\/\/resources.compricer.se\/logos\/big\/379.png","Pay":true,"Description":"Marginalen erbjuder dig en hög ränta som gäller från första kronan utan att du behöver binda ditt kapital. Våra konton har inga avgifter och vi omfattas självklart av insättningsgarantin. Välkommen till Marginalen!","Slug":"marginalensparkonto","DepositGuarantee":"\u003Cspan class=\u0022ui-bracket-markup ui-bracket-markup__check\u0022\u003E\u003C\/span\u003E","DepositGuaranteeInfo":"","HasDepositGuarantee":true,"BankInfoText":"om Marginalen sparkonto","BankInfoUrl":"bank\/marginalensparkonto\/","ClickUrl":"\/click\/?providerid=21\u0026serviceid=15\u0026platform=desktop\u0026domain=www.compricer.se","SavingsAmount":"Max 5 000 000 kr","Rate":"2,00 - 3,50 %","BindTime":"0 mån - 7 år","HasFreeWithdrawals":true,"NumberOfFreeWithdrawals":"Inga - Obegränsat","ProviderHighResLogoUrl":"https:\/\/resources.compricer.se\/logos\/svg\/new\/379.svg","ShortDescription":"Marginalen erbjuder dig en hög ränta som gäller från första kronan utan...","ShowShortDescription":true},{"ProviderName":"HoistSpar sparkonto","ProviderLogoUrl":"https:\/\/resources.compricer.se\/logos\/big\/792.png","Pay":true,"Description":"Hos HoistSpar kan du välja mellan både rörligt och fast sparkonto till konkurrenskraftiga räntor. Kontona omfattas av den statliga insättningsgarantin.","Slug":"hoistsparsparkonto","DepositGuarantee":"\u003Cspan class=\u0022ui-bracket-markup ui-bracket-markup__check\u0022\u003E\u003C\/span\u003E","DepositGuaranteeInfo":"","HasDepositGuarantee":true,"BankInfoText":"om HoistSpar sparkonto","BankInfoUrl":"bank\/hoistsparsparkonto\/","ClickUrl":"\/click\/?providerid=60\u0026serviceid=15\u0026platform=desktop\u0026domain=www.compricer.se","SavingsAmount":"Max 1 050 000 kr","Rate":"2,05 - 3,30 %","BindTime":"0 mån - 3 år","HasFreeWithdrawals":true,"NumberOfFreeWithdrawals":"Inga - Obegränsat","ProviderHighResLogoUrl":"https:\/\/resources.compricer.se\/logos\/svg\/new\/792.svg","ShortDescription":"Hos HoistSpar kan du välja mellan både rörligt och fast sparkonto till...","ShowShortDescription":true},{"ProviderName":"Ecster","ProviderLogoUrl":"https:\/\/resources.compricer.se\/logos\/big\/642.png","Pay":true,"Description":"","Slug":"ecster","DepositGuarantee":"\u003Cspan class=\u0022ui-bracket-markup ui-bracket-markup__check\u0022\u003E\u003C\/span\u003E","DepositGuaranteeInfo":"","HasDepositGuarantee":true,"BankInfoText":"om Ecster","BankInfoUrl":"bank\/ecster\/","ClickUrl":"\/click\/?providerid=127\u0026serviceid=15\u0026platform=desktop\u0026domain=www.compricer.se","SavingsAmount":"10 000 - 250 000 kr","Rate":"2,00 %","BindTime":"Rörlig ränta","HasFreeWithdrawals":true,"NumberOfFreeWithdrawals":"Obegränsat","ProviderHighResLogoUrl":"https:\/\/resources.compricer.se\/logos\/svg\/new\/642.svg","ShortDescription":"","ShowShortDescription":false},{"ProviderName":"Landshypotek Bank sparkonto","ProviderLogoUrl":"https:\/\/resources.compricer.se\/logos\/big\/966.png","Pay":true,"Description":"Spara enkelt, ingen bindningstid, fria uttag, insättningsgaranti, trygg sparform med god ränta. Digital ansökan i 4 steg.","Slug":"landshypotekbanksparkonto","DepositGuarantee":"\u003Cspan class=\u0022ui-bracket-markup ui-bracket-markup__check\u0022\u003E\u003C\/span\u003E","DepositGuaranteeInfo":"","HasDepositGuarantee":true,"BankInfoText":"om Landshypotek Bank sparkonto","BankInfoUrl":"bank\/landshypotekbanksparkonto\/","ClickUrl":"\/click\/?providerid=74\u0026serviceid=15\u0026platform=desktop\u0026domain=www.compricer.se","SavingsAmount":"Obegränsat","Rate":"2,25 %","BindTime":"Rörlig ränta","HasFreeWithdrawals":true,"NumberOfFreeWithdrawals":"Obegränsat","ProviderHighResLogoUrl":"https:\/\/resources.compricer.se\/logos\/svg\/new\/966.svg","ShortDescription":"Spara enkelt, ingen bindningstid, fria uttag, insättningsgaranti, trygg...","ShowShortDescription":true},{"ProviderName":"Moank","ProviderLogoUrl":"https:\/\/resources.compricer.se\/logos\/big\/1145.png","Pay":true,"Description":"Moank Flex är ett sparkonto för dig som vill ha ett smart och flexibelt sparande. Med en förmånlig ränta och helt utan bindningstid eller avgifter, erbjuder Moank en av marknadens bästa villkor. Omfattas av statliga insättningsgarantin. Moank AB grundades 2015 och är en del av CMI Group.","Slug":"moank","DepositGuarantee":"\u003Cspan class=\u0022ui-bracket-markup ui-bracket-markup__check\u0022\u003E\u003C\/span\u003E","DepositGuaranteeInfo":"","HasDepositGuarantee":true,"BankInfoText":"om Moank","BankInfoUrl":"bank\/moank\/","ClickUrl":"\/click\/?providerid=126\u0026serviceid=15\u0026platform=desktop\u0026domain=www.compricer.se","SavingsAmount":"Max 1 050 000 kr","Rate":"2,30 %","BindTime":"Rörlig ränta","HasFreeWithdrawals":true,"NumberOfFreeWithdrawals":"Obegränsat","ProviderHighResLogoUrl":"https:\/\/resources.compricer.se\/logos\/svg\/new\/1145.svg","ShortDescription":"Moank Flex är ett sparkonto för dig som vill ha ett smart och flexibelt...","ShowShortDescription":true},{"ProviderName":"Northmill Bank","ProviderLogoUrl":"https:\/\/resources.compricer.se\/logos\/big\/1129.png","Pay":true,"Description":"Vi erbjuder ett förmånligt, flexibelt och tryggt sparande med statlig insättningsgaranti. Du öppnar ditt sparkonto på två minuter och hanterar det enkelt online på Mina Sidor eller direkt i Northmill-appen. Välkommen!","Slug":"NorthmillBank","DepositGuarantee":"\u003Cspan class=\u0022ui-bracket-markup ui-bracket-markup__check\u0022\u003E\u003C\/span\u003E","DepositGuaranteeInfo":"","HasDepositGuarantee":true,"BankInfoText":"om Northmill Bank","BankInfoUrl":"bank\/NorthmillBank\/","ClickUrl":"\/click\/?providerid=109\u0026serviceid=15\u0026platform=desktop\u0026domain=www.compricer.se","SavingsAmount":"Max 1 100 000 kr","Rate":"2,00 - 2,35 %","BindTime":"0 mån - 2 år","HasFreeWithdrawals":true,"NumberOfFreeWithdrawals":"Inga - Obegränsat","ProviderHighResLogoUrl":"https:\/\/resources.compricer.se\/logos\/svg\/new\/1129.svg","ShortDescription":"Vi erbjuder ett förmånligt, flexibelt och tryggt sparande med statlig insättningsgaranti....","ShowShortDescription":true}]'
+        :default-providers-with-binding-times='[{"ProviderName":"Nordax Bank sparkonto","ProviderLogoUrl":"https:\/\/resources.compricer.se\/logos\/big\/551.png","Pay":true,"Slug":"nordaxbanksparkonto","HasDepositGuarantee":true,"DepositGuaranteeInfo":"","Description":"Nordax vann årets sparränta 2018! Öppna ett sparkonto enkelt och tryggt med bra ränta och fria uttag hos Nordax. Börja spara redan idag för framtida idéer, projekt eller äventyr.","Priority":"4","Rates":[{"BindTime":"0months","MinRate":2.35,"MaxRate":2.35,"MinNumberOfFreeWithdrawals":null,"MaxNumberOfFreeWithdrawals":null,"Rate":"2,35 %"},{"BindTime":"1year","MinRate":3,"MaxRate":3,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"3,00 %"},{"BindTime":"2years","MinRate":3.25,"MaxRate":3.25,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"3,25 %"}],"ClickUrl":"\/click\/?providerid=53\u0026serviceid=15\u0026platform=desktop\u0026domain=www.compricer.se","ProviderHighResLogoUrl":"https:\/\/resources.compricer.se\/logos\/svg\/new\/551.svg"},{"ProviderName":"Erik Penser Bank sparkonto","ProviderLogoUrl":"https:\/\/resources.compricer.se\/logos\/big\/1078.png","Pay":true,"Slug":"erikpenserbanksparkonto","HasDepositGuarantee":true,"DepositGuaranteeInfo":"Insättningsgarantin täcker upp till 1 050 000 kronor per kund och institut. Erik Penser Bank erbjuder sparkonto under eget namn samt genom sparprodukten Rocker. Skulle du ha två eller fler konton hos både Erik Penser Bank och Rocker läggs beloppen samman och omfattas av den maximala gränsen på 1 050 000 kronor.","Description":"Erik Penser Bank erbjuder tryggt sparande genom sina fastränteplaceringar med statlig insättningsgaranti. Ingen öppningsavgift, årsavgift eller annan fast avgift.","Priority":"5","Rates":[{"BindTime":"0months","MinRate":1.5,"MaxRate":1.5,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"1,50 %"},{"BindTime":"3months","MinRate":2.65,"MaxRate":2.65,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"2,65 %"},{"BindTime":"6months","MinRate":2.85,"MaxRate":2.85,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"2,85 %"},{"BindTime":"1year","MinRate":3.1,"MaxRate":3.1,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"3,10 %"},{"BindTime":"2years","MinRate":2.95,"MaxRate":2.95,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"2,95 %"}],"ClickUrl":"\/click\/?providerid=104\u0026serviceid=15\u0026platform=desktop\u0026domain=www.compricer.se","ProviderHighResLogoUrl":"https:\/\/resources.compricer.se\/logos\/svg\/new\/1078.svg"},{"ProviderName":"Nordiska sparkonto","ProviderLogoUrl":"https:\/\/resources.compricer.se\/logos\/big\/982.png","Pay":true,"Slug":"nordiskasparkonto","HasDepositGuarantee":true,"DepositGuaranteeInfo":"","Description":"Hos Nordiska sparar du både säkert och smart till några av marknadens mest fördelaktiga villkor. Vi erbjuder fasträntekonton med löptider mellan 1-5 år. Självklart omfattas ditt sparande av den statliga insättningsgarantin.","Priority":"6","Rates":[{"BindTime":"0months","MinRate":1.6,"MaxRate":2.1,"MinNumberOfFreeWithdrawals":null,"MaxNumberOfFreeWithdrawals":null,"Rate":"1,60 - 2,10 %"},{"BindTime":"1year","MinRate":1.05,"MaxRate":2.7,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"1,05 - 2,70 %"},{"BindTime":"2years","MinRate":2.8,"MaxRate":2.8,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"2,80 %"},{"BindTime":"3years","MinRate":2.95,"MaxRate":2.95,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"2,95 %"},{"BindTime":"4years","MinRate":3.05,"MaxRate":3.05,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"3,05 %"},{"BindTime":"5years","MinRate":3.15,"MaxRate":3.15,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"3,15 %"}],"ClickUrl":"\/click\/?providerid=80\u0026serviceid=15\u0026platform=desktop\u0026domain=www.compricer.se","ProviderHighResLogoUrl":"https:\/\/resources.compricer.se\/logos\/svg\/new\/982.svg"},{"ProviderName":"Borgo","ProviderLogoUrl":"https:\/\/resources.compricer.se\/logos\/big\/1176.png","Pay":true,"Slug":"borgo","HasDepositGuarantee":true,"DepositGuaranteeInfo":"","Description":"Hos Borgo erbjuds du konkurrenskraftig ränta och fria uttag på ett sparande som du vet enbart används till finansiering av bolån. Borgo är ett nytt svenskt hypoteksbolag som samägs av ICA Banken, Ikano Bank, Söderberg \u0026 Partners, Sparbanken Syd och Ålandsbanken","Priority":"8","Rates":[{"BindTime":"0months","MinRate":1.75,"MaxRate":1.75,"MinNumberOfFreeWithdrawals":null,"MaxNumberOfFreeWithdrawals":null,"Rate":"1,75 %"},{"BindTime":"6months","MinRate":1.85,"MaxRate":1.85,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"1,85 %"},{"BindTime":"1year","MinRate":2.5,"MaxRate":2.5,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"2,50 %"},{"BindTime":"2years","MinRate":2.7,"MaxRate":2.7,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"2,70 %"},{"BindTime":"3years","MinRate":2.75,"MaxRate":2.75,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"2,75 %"}],"ClickUrl":"\/click\/?providerid=124\u0026serviceid=15\u0026platform=desktop\u0026domain=www.compricer.se","ProviderHighResLogoUrl":"https:\/\/resources.compricer.se\/logos\/svg\/new\/1176.svg"},{"ProviderName":"Avida Finans sparkonto","ProviderLogoUrl":"https:\/\/resources.compricer.se\/logos\/big\/491.png","Pay":true,"Slug":"avidafinanssparkonto","HasDepositGuarantee":true,"DepositGuaranteeInfo":"","Description":"AvidaSpar är det enkla sparkontot. Du får en hög sparränta från första dagen och första kronan, och kontot har heller inga avgifter eller bindningstider.","Priority":"9","Rates":[{"BindTime":"0months","MinRate":1.9,"MaxRate":1.9,"MinNumberOfFreeWithdrawals":null,"MaxNumberOfFreeWithdrawals":null,"Rate":"1,90 %"}],"ClickUrl":"\/click\/?providerid=29\u0026serviceid=15\u0026platform=desktop\u0026domain=www.compricer.se","ProviderHighResLogoUrl":"https:\/\/resources.compricer.se\/logos\/svg\/new\/491.svg"},{"ProviderName":"SevenDay Bank sparkonto","ProviderLogoUrl":"https:\/\/resources.compricer.se\/logos\/big\/545.png","Pay":true,"Slug":"sevendaybank","HasDepositGuarantee":true,"DepositGuaranteeInfo":"","Description":"Spara med hög ränta och på det sätt som passar dig bäst. Välj helt fria uttag eller bind ditt sparande. Oavsett hur du sparar kan du kostnadsfritt ta ut din intjänade ränta varje månad.\r\nVårt sparkonto utsågs till Årets Konto 2015 av Privata Affärer.","Priority":"10","Rates":[{"BindTime":"0months","MinRate":2.05,"MaxRate":2.05,"MinNumberOfFreeWithdrawals":null,"MaxNumberOfFreeWithdrawals":null,"Rate":"2,05 %"},{"BindTime":"3months","MinRate":2.3,"MaxRate":2.3,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"2,30 %"},{"BindTime":"6months","MinRate":2.5,"MaxRate":2.5,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"2,50 %"},{"BindTime":"1year","MinRate":2.7,"MaxRate":2.7,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"2,70 %"},{"BindTime":"2years","MinRate":2.8,"MaxRate":2.8,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"2,80 %"},{"BindTime":"3years","MinRate":2.8,"MaxRate":2.8,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"2,80 %"}],"ClickUrl":"\/click\/?providerid=58\u0026serviceid=15\u0026platform=desktop\u0026domain=www.compricer.se","ProviderHighResLogoUrl":"https:\/\/resources.compricer.se\/logos\/svg\/new\/545.svg"},{"ProviderName":"Aros Kapital sparkonto","ProviderLogoUrl":"https:\/\/resources.compricer.se\/logos\/big\/1046.png","Pay":true,"Slug":"aroskapital","HasDepositGuarantee":true,"DepositGuaranteeInfo":"","Description":"Aros erbjuder löptider om 3, 6 och 12 månader för ett enkelt, smidigt och säkert sparande. Sparkontona täcks av den statliga insättningsgarantin med upp till 950 000 kr.","Priority":"11","Rates":[{"BindTime":"0months","MinRate":2,"MaxRate":2,"MinNumberOfFreeWithdrawals":null,"MaxNumberOfFreeWithdrawals":null,"Rate":"2,00 %"},{"BindTime":"3months","MinRate":2.65,"MaxRate":2.65,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"2,65 %"},{"BindTime":"6months","MinRate":2.85,"MaxRate":2.85,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"2,85 %"},{"BindTime":"1year","MinRate":2.95,"MaxRate":2.95,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"2,95 %"}],"ClickUrl":"\/click\/?providerid=94\u0026serviceid=15\u0026platform=desktop\u0026domain=www.compricer.se","ProviderHighResLogoUrl":"https:\/\/resources.compricer.se\/logos\/svg\/new\/1046.svg"},{"ProviderName":"Carnegie sparkonto","ProviderLogoUrl":"https:\/\/resources.compricer.se\/logos\/big\/1033.png","Pay":true,"Slug":"carnegiesparkonto","HasDepositGuarantee":true,"DepositGuaranteeInfo":"","Description":"Carnegie erbjuder ett flexibelt sparkonto med bra ränta och fria uttag. Inga avgifter eller bindningstider. Sparkontot omfattas av den statliga insättningsgarantin","Priority":"13","Rates":[{"BindTime":"0months","MinRate":1,"MaxRate":1,"MinNumberOfFreeWithdrawals":null,"MaxNumberOfFreeWithdrawals":null,"Rate":"1,00 %"}],"ClickUrl":"\/click\/?providerid=93\u0026serviceid=15\u0026platform=desktop\u0026domain=www.compricer.se","ProviderHighResLogoUrl":"https:\/\/resources.compricer.se\/logos\/svg\/new\/1033.svg"},{"ProviderName":"Marginalen sparkonto","ProviderLogoUrl":"https:\/\/resources.compricer.se\/logos\/big\/379.png","Pay":true,"Slug":"marginalensparkonto","HasDepositGuarantee":true,"DepositGuaranteeInfo":"","Description":"Marginalen erbjuder dig en hög ränta som gäller från första kronan utan att du behöver binda ditt kapital. Våra konton har inga avgifter och vi omfattas självklart av insättningsgarantin. Välkommen till Marginalen!","Priority":"14","Rates":[{"BindTime":"0months","MinRate":2,"MaxRate":2,"MinNumberOfFreeWithdrawals":null,"MaxNumberOfFreeWithdrawals":null,"Rate":"2,00 %"},{"BindTime":"3months","MinRate":2.4,"MaxRate":2.4,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"2,40 %"},{"BindTime":"6months","MinRate":2.65,"MaxRate":2.65,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"2,65 %"},{"BindTime":"1year","MinRate":3.2,"MaxRate":3.2,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"3,20 %"},{"BindTime":"2years","MinRate":3.25,"MaxRate":3.25,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"3,25 %"},{"BindTime":"3years","MinRate":3.3,"MaxRate":3.3,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"3,30 %"},{"BindTime":"5years","MinRate":3.4,"MaxRate":3.4,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"3,40 %"}],"ClickUrl":"\/click\/?providerid=21\u0026serviceid=15\u0026platform=desktop\u0026domain=www.compricer.se","ProviderHighResLogoUrl":"https:\/\/resources.compricer.se\/logos\/svg\/new\/379.svg"},{"ProviderName":"HoistSpar sparkonto","ProviderLogoUrl":"https:\/\/resources.compricer.se\/logos\/big\/792.png","Pay":true,"Slug":"hoistsparsparkonto","HasDepositGuarantee":true,"DepositGuaranteeInfo":"","Description":"Hos HoistSpar kan du välja mellan både rörligt och fast sparkonto till konkurrenskraftiga räntor. Kontona omfattas av den statliga insättningsgarantin.","Priority":"23","Rates":[{"BindTime":"0months","MinRate":2.05,"MaxRate":2.05,"MinNumberOfFreeWithdrawals":null,"MaxNumberOfFreeWithdrawals":null,"Rate":"2,05 %"},{"BindTime":"1year","MinRate":3.1,"MaxRate":3.1,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"3,10 %"},{"BindTime":"2years","MinRate":3.3,"MaxRate":3.3,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"3,30 %"},{"BindTime":"3years","MinRate":2.15,"MaxRate":2.15,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"2,15 %"}],"ClickUrl":"\/click\/?providerid=60\u0026serviceid=15\u0026platform=desktop\u0026domain=www.compricer.se","ProviderHighResLogoUrl":"https:\/\/resources.compricer.se\/logos\/svg\/new\/792.svg"},{"ProviderName":"Ecster","ProviderLogoUrl":"https:\/\/resources.compricer.se\/logos\/big\/642.png","Pay":true,"Slug":"ecster","HasDepositGuarantee":true,"DepositGuaranteeInfo":"","Description":"","Priority":"30","Rates":[{"BindTime":"0months","MinRate":2,"MaxRate":2,"MinNumberOfFreeWithdrawals":null,"MaxNumberOfFreeWithdrawals":null,"Rate":"2,00 %"}],"ClickUrl":"\/click\/?providerid=127\u0026serviceid=15\u0026platform=desktop\u0026domain=www.compricer.se","ProviderHighResLogoUrl":"https:\/\/resources.compricer.se\/logos\/svg\/new\/642.svg"},{"ProviderName":"Landshypotek Bank sparkonto","ProviderLogoUrl":"https:\/\/resources.compricer.se\/logos\/big\/966.png","Pay":true,"Slug":"landshypotekbanksparkonto","HasDepositGuarantee":true,"DepositGuaranteeInfo":"","Description":"Spara enkelt, ingen bindningstid, fria uttag, insättningsgaranti, trygg sparform med god ränta. Digital ansökan i 4 steg.","Priority":"70","Rates":[{"BindTime":"0months","MinRate":2.25,"MaxRate":2.25,"MinNumberOfFreeWithdrawals":null,"MaxNumberOfFreeWithdrawals":null,"Rate":"2,25 %"}],"ClickUrl":"\/click\/?providerid=74\u0026serviceid=15\u0026platform=desktop\u0026domain=www.compricer.se","ProviderHighResLogoUrl":"https:\/\/resources.compricer.se\/logos\/svg\/new\/966.svg"},{"ProviderName":"Moank","ProviderLogoUrl":"https:\/\/resources.compricer.se\/logos\/big\/1145.png","Pay":true,"Slug":"moank","HasDepositGuarantee":true,"DepositGuaranteeInfo":"","Description":"Moank Flex är ett sparkonto för dig som vill ha ett smart och flexibelt sparande. Med en förmånlig ränta och helt utan bindningstid eller avgifter, erbjuder Moank en av marknadens bästa villkor. Omfattas av statliga insättningsgarantin. Moank AB grundades 2015 och är en del av CMI Group.","Priority":"74","Rates":[{"BindTime":"0months","MinRate":2.3,"MaxRate":2.3,"MinNumberOfFreeWithdrawals":null,"MaxNumberOfFreeWithdrawals":null,"Rate":"2,30 %"}],"ClickUrl":"\/click\/?providerid=126\u0026serviceid=15\u0026platform=desktop\u0026domain=www.compricer.se","ProviderHighResLogoUrl":"https:\/\/resources.compricer.se\/logos\/svg\/new\/1145.svg"},{"ProviderName":"Northmill Bank","ProviderLogoUrl":"https:\/\/resources.compricer.se\/logos\/big\/1129.png","Pay":true,"Slug":"NorthmillBank","HasDepositGuarantee":true,"DepositGuaranteeInfo":"","Description":"Vi erbjuder ett förmånligt, flexibelt och tryggt sparande med statlig insättningsgaranti. Du öppnar ditt sparkonto på två minuter och hanterar det enkelt online på Mina Sidor eller direkt i Northmill-appen. Välkommen!","Priority":"76","Rates":[{"BindTime":"0months","MinRate":2,"MaxRate":2,"MinNumberOfFreeWithdrawals":null,"MaxNumberOfFreeWithdrawals":null,"Rate":"2,00 %"},{"BindTime":"3months","MinRate":2.2,"MaxRate":2.2,"MinNumberOfFreeWithdrawals":null,"MaxNumberOfFreeWithdrawals":null,"Rate":"2,20 %"},{"BindTime":"6months","MinRate":2.25,"MaxRate":2.25,"MinNumberOfFreeWithdrawals":null,"MaxNumberOfFreeWithdrawals":null,"Rate":"2,25 %"},{"BindTime":"1year","MinRate":2.3,"MaxRate":2.3,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"2,30 %"},{"BindTime":"2years","MinRate":2.35,"MaxRate":2.35,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":null,"Rate":"2,35 %"}],"ClickUrl":"\/click\/?providerid=109\u0026serviceid=15\u0026platform=desktop\u0026domain=www.compricer.se","ProviderHighResLogoUrl":"https:\/\/resources.compricer.se\/logos\/svg\/new\/1129.svg"},{"ProviderName":"Ikano Bank","ProviderLogoUrl":"https:\/\/resources.compricer.se\/logos\/big\/165.png","Pay":false,"Slug":"ikanobank","HasDepositGuarantee":true,"DepositGuaranteeInfo":"","Description":"Vi kan konsten att spara och erbjuder dig flera olika alternativ beroende på hur din sparsituation ser ut. Hos oss behöver du inte förhandla dig till bra villkor, vi har bra räntor för alla. Du kan välja mellan tre enkla sparkonton Sparkonto, Sparkonto Plus och Sparkonto Fix. Självklart omfattas ditt sparande hos oss av den statliga insättningsgarantin. Välkommen till Ikano Bank!","Priority":"3","Rates":[{"BindTime":"0months","MinRate":1.85,"MaxRate":2,"MinNumberOfFreeWithdrawals":4,"MaxNumberOfFreeWithdrawals":null,"Rate":"1,85 - 2,00 %"},{"BindTime":"1year","MinRate":2.6,"MaxRate":2.6,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"2,60 %"},{"BindTime":"2years","MinRate":2.8,"MaxRate":2.8,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"2,80 %"},{"BindTime":"5years","MinRate":3.2,"MaxRate":3.2,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"3,20 %"}],"ClickUrl":"\/sparande\/partners\/?providerid=5","ProviderHighResLogoUrl":"https:\/\/resources.compricer.se\/logos\/svg\/new\/165.svg"},{"ProviderName":"Froda","ProviderLogoUrl":"https:\/\/resources.compricer.se\/logos\/big\/1149.png","Pay":false,"Slug":"froda","HasDepositGuarantee":true,"DepositGuaranteeInfo":"","Description":"Froda erbjuder ett enkelt och säkert sparande utan några fasta avgifter och våra sparkonton omfattas av den statliga insättningsgarantin.","Priority":"7","Rates":[{"BindTime":"0months","MinRate":2.3,"MaxRate":2.3,"MinNumberOfFreeWithdrawals":null,"MaxNumberOfFreeWithdrawals":null,"Rate":"2,30 %"},{"BindTime":"3months","MinRate":2.7,"MaxRate":2.7,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"2,70 %"},{"BindTime":"6months","MinRate":2.9,"MaxRate":2.9,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"2,90 %"},{"BindTime":"1year","MinRate":3.2,"MaxRate":3.2,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"3,20 %"}],"ClickUrl":"\/sparande\/partners\/?providerid=117","ProviderHighResLogoUrl":"https:\/\/resources.compricer.se\/logos\/svg\/new\/1149.svg"},{"ProviderName":"Qliro","ProviderLogoUrl":"https:\/\/resources.compricer.se\/logos\/big\/1090.png","Pay":false,"Slug":"qliro","HasDepositGuarantee":true,"DepositGuaranteeInfo":"","Description":"Med Qliro sparar du tryggt i en takt som passar dig. Du kommer enkelt igång med BankID och kan sedan välja ett sparande som passar just dig. Självklart sparar du alltid till en bra ränta. Alla våra konton omfattas av den statliga insättningsgarantin","Priority":"17","Rates":[{"BindTime":"0months","MinRate":2.55,"MaxRate":2.55,"MinNumberOfFreeWithdrawals":null,"MaxNumberOfFreeWithdrawals":null,"Rate":"2,55 %"},{"BindTime":"1year","MinRate":2.8,"MaxRate":2.8,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"2,80 %"}],"ClickUrl":"\/sparande\/partners\/?providerid=106","ProviderHighResLogoUrl":"https:\/\/resources.compricer.se\/logos\/svg\/new\/1090.svg"},{"ProviderName":"Instabank","ProviderLogoUrl":"https:\/\/resources.compricer.se\/logos\/big\/1113.png","Pay":false,"Slug":"instabank","HasDepositGuarantee":true,"DepositGuaranteeInfo":"","Description":"Spara enkelt och tryggt hos Instabank! Hos oss får du varken avgifter vid insättning eller uttag och vi kräver ingen bindningstid. Det finns inget minimikrav på insättning och vi begränsar såklart inte antalet uttag. Instabank sparkonto – ett sparkonto på kundens villkor.","Priority":"19","Rates":[{"BindTime":"0months","MinRate":0,"MaxRate":0.55,"MinNumberOfFreeWithdrawals":null,"MaxNumberOfFreeWithdrawals":null,"Rate":"0,00 - 0,55 %"}],"ClickUrl":"\/sparande\/partners\/?providerid=108","ProviderHighResLogoUrl":"https:\/\/resources.compricer.se\/logos\/svg\/new\/1113.svg"},{"ProviderName":"Komplett Bank ASA","ProviderLogoUrl":"https:\/\/resources.compricer.se\/logos\/big\/1137.png","Pay":false,"Slug":"komplettbankasa","HasDepositGuarantee":true,"DepositGuaranteeInfo":"","Description":"Spara säkert till en bra ränta och med fria uttag. Insättningar på upp till motsvarande 100 000 EUR har insättningsgaranti. Komplett Banks högräntekonto är ett spar- och investeringskonto för privatpersoner för insättningar mellan 50 000 SEK och 1 000 000 SEK.","Priority":"20","Rates":[{"BindTime":"0months","MinRate":2.35,"MaxRate":2.35,"MinNumberOfFreeWithdrawals":null,"MaxNumberOfFreeWithdrawals":null,"Rate":"2,35 %"}],"ClickUrl":"\/sparande\/partners\/?providerid=111","ProviderHighResLogoUrl":"https:\/\/resources.compricer.se\/logos\/svg\/new\/1137.svg"},{"ProviderName":"PayEx Sverige","ProviderLogoUrl":"https:\/\/resources.compricer.se\/logos\/big\/949.png","Pay":false,"Slug":"payexsverige","HasDepositGuarantee":true,"DepositGuaranteeInfo":"","Description":"Vi erbjuder dig tre olika sparformer anpassat efter din situation.\r\n\r\nSamtliga alternativ har kostnadsfria insättningar och omfattas\r\nav den statliga insättningsgarantin.\r\n\r\nDetta gör ditt sparande enkelt, tryggt och med hög avkastning!","Priority":"21","Rates":[{"BindTime":"1year","MinRate":0.25,"MaxRate":0.25,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"0,25 %"},{"BindTime":"2years","MinRate":0,"MaxRate":0,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"0,00 %"}],"ClickUrl":"\/sparande\/partners\/?providerid=71","ProviderHighResLogoUrl":"https:\/\/resources.compricer.se\/logos\/svg\/new\/949.svg"},{"ProviderName":"Resurs Bank","ProviderLogoUrl":"https:\/\/resources.compricer.se\/logos\/big\/179.png","Pay":false,"Slug":"resursbank","HasDepositGuarantee":true,"DepositGuaranteeInfo":"","Description":"Resurs Bank är en liten men stabil bank, vi erbjuder en hög\r\nränta och en hög säkerhet. Den statliga insättningsgarantin som garanterar upp till 100 000 euro per kund gäller för alla sparkonton\r\nhos Resurs Bank.","Priority":"22","Rates":[{"BindTime":"0months","MinRate":1.85,"MaxRate":1.85,"MinNumberOfFreeWithdrawals":null,"MaxNumberOfFreeWithdrawals":null,"Rate":"1,85 %"}],"ClickUrl":"\/sparande\/partners\/?providerid=8","ProviderHighResLogoUrl":"https:\/\/resources.compricer.se\/logos\/svg\/new\/179.svg"},{"ProviderName":"MedMera Bank","ProviderLogoUrl":"https:\/\/resources.compricer.se\/logos\/big\/1029.png","Pay":false,"Slug":"medmerabank","HasDepositGuarantee":true,"DepositGuaranteeInfo":"","Description":"","Priority":"24","Rates":[{"BindTime":"0months","MinRate":1.8,"MaxRate":1.8,"MinNumberOfFreeWithdrawals":null,"MaxNumberOfFreeWithdrawals":null,"Rate":"1,80 %"}],"ClickUrl":"\/sparande\/partners\/?providerid=113","ProviderHighResLogoUrl":"https:\/\/resources.compricer.se\/logos\/svg\/new\/1029.svg"},{"ProviderName":"Bank Norwegian","ProviderLogoUrl":"https:\/\/resources.compricer.se\/logos\/big\/1008.png","Pay":false,"Slug":"banknorwegiansparkonto","HasDepositGuarantee":true,"DepositGuaranteeInfo":"Insättningar i Bank Norwegian omfattas av Bankenes Sikringsfond i Norge. Detta innebär att dina pengar skyddas av de insättningsgarantier som gäller för de norska bankerna, för närvarande NOK 2 000 000.\u003Cbr\/\u003E\u003Cbr\/\u003EMer information om Bankenes sikringsfond hittar du på \u003Ca href=\u0022http:\/\/www.bankenessikringsfond.no\u0022\u003E www.bankenessikringsfond.no\u003C\/a\u003E där du också kan hitta Bank Norwegian AS under fliken medlemmar.","Description":"Bank Norwegian säljer enkla, standardiserade inlåning- och utlåningsprodukter via internet. Vi ska, med hjälp av teknologi och innovation, förse våra kunder med de bästa lösningarna för köp och användning av finansiella tjänster över internet.","Priority":"25","Rates":[{"BindTime":"0months","MinRate":1.8,"MaxRate":1.8,"MinNumberOfFreeWithdrawals":null,"MaxNumberOfFreeWithdrawals":null,"Rate":"1,80 %"}],"ClickUrl":"\/sparande\/partners\/?providerid=88","ProviderHighResLogoUrl":"https:\/\/resources.compricer.se\/logos\/svg\/new\/1008.svg"},{"ProviderName":"Santander Consumer Bank","ProviderLogoUrl":"https:\/\/resources.compricer.se\/logos\/big\/487.png","Pay":false,"Slug":"santanderconsumerbank","HasDepositGuarantee":true,"DepositGuaranteeInfo":"Som filial till en norsk bank så lyder Santander Consumer Bank under den norska insättningsgarantin (Bankenes Sikringsfond) som täcker belopp upp till motsvarande 100 000 euro.\u003Cbr\/\u003E\u003Cbr\/\u003E* Utbetalning görs 31 dagar från begäran om uttag.","Description":"Santander Consumer Banks sparkonton, Mitt spar och Mitt spar+ har en av marknadens bästa räntor och är ett enkelt sätt att spara online. Öppna sparkonto hos oss i dag och förverkliga dina idéer. Våra sparkonton täcks av norsk insättningsgaranti.","Priority":"26","Rates":[{"BindTime":"0months","MinRate":1.95,"MaxRate":2.1,"MinNumberOfFreeWithdrawals":null,"MaxNumberOfFreeWithdrawals":null,"Rate":"1,95 - 2,10 %"}],"ClickUrl":"\/sparande\/partners\/?providerid=84","ProviderHighResLogoUrl":"https:\/\/resources.compricer.se\/logos\/svg\/new\/487.svg"},{"ProviderName":"Nordea","ProviderLogoUrl":"https:\/\/resources.compricer.se\/logos\/big\/157.png","Pay":false,"Slug":"nordea","HasDepositGuarantee":true,"DepositGuaranteeInfo":"","Description":"Nordeas Fastränteplacering är en bekväm, trygg och lönsam sparform.\r\nRäntan är fast under hela löptiden och känd i förväg.\r\nFastränteplaceringen omfattas av den statliga insättningsgarantin.","Priority":"27","Rates":[{"BindTime":"0months","MinRate":0.55,"MaxRate":1,"MinNumberOfFreeWithdrawals":null,"MaxNumberOfFreeWithdrawals":null,"Rate":"0,55 - 1,00 %"},{"BindTime":"3months","MinRate":1.25,"MaxRate":1.25,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"1,25 %"},{"BindTime":"6months","MinRate":1.5,"MaxRate":1.5,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"1,50 %"},{"BindTime":"1year","MinRate":2.5,"MaxRate":2.5,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"2,50 %"},{"BindTime":"2years","MinRate":2.9,"MaxRate":2.9,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"2,90 %"}],"ClickUrl":"\/sparande\/partners\/?providerid=7","ProviderHighResLogoUrl":"https:\/\/resources.compricer.se\/logos\/svg\/new\/157.svg"},{"ProviderName":"SEB","ProviderLogoUrl":"https:\/\/resources.compricer.se\/logos\/big\/161.png","Pay":false,"Slug":"seb","HasDepositGuarantee":true,"DepositGuaranteeInfo":"","Description":"Ett bra sparkonto är viktigt \u0026 koll på din ekonomi också! SEB kan hjälpa dig att se över din ekonomiska situation: allt från sparande, lån \u0026 försäkringar till att göra vardagsekonomin lite enklare. Gå in på vår hemsida \u0026 boka en ekonomisk rådgivning idag!","Priority":"31","Rates":[{"BindTime":"0months","MinRate":0.3,"MaxRate":0.3,"MinNumberOfFreeWithdrawals":null,"MaxNumberOfFreeWithdrawals":null,"Rate":"0,30 %"},{"BindTime":"3months","MinRate":1.25,"MaxRate":1.25,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"1,25 %"},{"BindTime":"6months","MinRate":1.5,"MaxRate":1.5,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"1,50 %"},{"BindTime":"1year","MinRate":2.41,"MaxRate":2.41,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"2,41 %"},{"BindTime":"2years","MinRate":2.43,"MaxRate":2.43,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"2,43 %"},{"BindTime":"3years","MinRate":2.43,"MaxRate":2.43,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"2,43 %"},{"BindTime":"4years","MinRate":2.42,"MaxRate":2.42,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"2,42 %"},{"BindTime":"5years","MinRate":2.43,"MaxRate":2.43,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"2,43 %"}],"ClickUrl":"\/sparande\/partners\/?providerid=3","ProviderHighResLogoUrl":"https:\/\/resources.compricer.se\/logos\/svg\/new\/161.svg"},{"ProviderName":"Swedbank","ProviderLogoUrl":"https:\/\/resources.compricer.se\/logos\/big\/155.png","Pay":false,"Slug":"swedbank","HasDepositGuarantee":true,"DepositGuaranteeInfo":"","Description":"Välj bland våra olika sparkonton och hitta det som passar dina önskemål bäst. Välkommen till Swedbank!","Priority":"34","Rates":[{"BindTime":"0months","MinRate":0.3,"MaxRate":0.5,"MinNumberOfFreeWithdrawals":null,"MaxNumberOfFreeWithdrawals":null,"Rate":"0,30 - 0,50 %"},{"BindTime":"3months","MinRate":2,"MaxRate":2,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"2,00 %"},{"BindTime":"6months","MinRate":2.2,"MaxRate":2.2,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"2,20 %"},{"BindTime":"1year","MinRate":2.6,"MaxRate":2.6,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"2,60 %"},{"BindTime":"2years","MinRate":2.6,"MaxRate":2.6,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"2,60 %"},{"BindTime":"3years","MinRate":2.48,"MaxRate":2.48,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"2,48 %"},{"BindTime":"4years","MinRate":2.33,"MaxRate":2.33,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"2,33 %"},{"BindTime":"5years","MinRate":2.25,"MaxRate":2.25,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"2,25 %"}],"ClickUrl":"\/sparande\/partners\/?providerid=1","ProviderHighResLogoUrl":"https:\/\/resources.compricer.se\/logos\/svg\/new\/155.svg"},{"ProviderName":"Nordnet","ProviderLogoUrl":"https:\/\/resources.compricer.se\/logos\/big\/337.png","Pay":false,"Slug":"nordnet","HasDepositGuarantee":true,"DepositGuaranteeInfo":"","Description":"Ett sparkonto hos Nordnet är ett bra komplement till sparande i aktier, fonder eller andra värdepapper. I perioder då du av något skäl inte vill placerade sparande i värdepapper, kan du med vårt sparkonto få en bättre ränta än vad ditt depåkonto erbjuder.","Priority":"35","Rates":[{"BindTime":"0months","MinRate":0,"MaxRate":0,"MinNumberOfFreeWithdrawals":null,"MaxNumberOfFreeWithdrawals":null,"Rate":"0,00 %"}],"ClickUrl":"\/sparande\/partners\/?providerid=62","ProviderHighResLogoUrl":"https:\/\/resources.compricer.se\/logos\/svg\/new\/337.svg"},{"ProviderName":"Skandiabanken","ProviderLogoUrl":"https:\/\/resources.compricer.se\/logos\/big\/167.png","Pay":false,"Slug":"skandiabanken","HasDepositGuarantee":true,"DepositGuaranteeInfo":"","Description":"Välj fasträntekonto med en högre ränta eller sparkonto till en bra ränta utan att du behöver binda dina pengar.","Priority":"36","Rates":[{"BindTime":"0months","MinRate":2,"MaxRate":2,"MinNumberOfFreeWithdrawals":null,"MaxNumberOfFreeWithdrawals":null,"Rate":"2,00 %"}],"ClickUrl":"\/sparande\/partners\/?providerid=16","ProviderHighResLogoUrl":"https:\/\/resources.compricer.se\/logos\/svg\/new\/167.svg"},{"ProviderName":"Collector Bank sparkonto","ProviderLogoUrl":"https:\/\/resources.compricer.se\/logos\/big\/381.png","Pay":false,"Slug":"collectorbank","HasDepositGuarantee":true,"DepositGuaranteeInfo":"","Description":"Spara och få god avkastning oavsett om du vill ha en rörlig eller bunden ränta. Du hanterar enkelt ditt sparkonto via nätet eller Collector Banks app. Ansökan är helt digital och tar bara ett par sekunder.","Priority":"37","Rates":[{"BindTime":"0months","MinRate":1.2,"MaxRate":1.2,"MinNumberOfFreeWithdrawals":null,"MaxNumberOfFreeWithdrawals":null,"Rate":"1,20 %"},{"BindTime":"3months","MinRate":1.4,"MaxRate":1.4,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"1,40 %"},{"BindTime":"6months","MinRate":1.75,"MaxRate":1.75,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"1,75 %"},{"BindTime":"1year","MinRate":3.05,"MaxRate":3.05,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"3,05 %"},{"BindTime":"2years","MinRate":3.26,"MaxRate":3.26,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"3,26 %"}],"ClickUrl":"\/sparande\/partners\/?providerid=23","ProviderHighResLogoUrl":"https:\/\/resources.compricer.se\/logos\/svg\/new\/381.svg"},{"ProviderName":"TF Bank","ProviderLogoUrl":"https:\/\/resources.compricer.se\/logos\/big\/557.png","Pay":false,"Slug":"tfbank","HasDepositGuarantee":true,"DepositGuaranteeInfo":"","Description":"Att spara hos TF Bank är ett klokt val. Vi ger dig en av marknadens bästa ränta från första kronan. Du binder inte dina pengar och du har två avgiftsfria uttag per år. Kontot omfattas av statlig insättningsgaranti \u0026 du kan spara upp till 1 miljon kronor.","Priority":"39","Rates":[{"BindTime":"0months","MinRate":0.25,"MaxRate":0.25,"MinNumberOfFreeWithdrawals":2,"MaxNumberOfFreeWithdrawals":2,"Rate":"0,25 %"},{"BindTime":"1year","MinRate":0.5,"MaxRate":0.5,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"0,50 %"}],"ClickUrl":"\/sparande\/partners\/?providerid=45","ProviderHighResLogoUrl":"https:\/\/resources.compricer.se\/logos\/svg\/new\/557.svg"},{"ProviderName":"Danske Bank","ProviderLogoUrl":"https:\/\/resources.compricer.se\/logos\/big\/171.png","Pay":false,"Slug":"danskebank","HasDepositGuarantee":true,"DepositGuaranteeInfo":"Dina pengar skyddas enligt den danska insättningsgarantin som kallas Garantifonden. Den ger skydd för ett belopp motsvarande 100 000 euro per insättare med avdrag för eventuella skulder till banken.\u003Cbr\/\u003E\u003Cbr\/\u003E\u003Cbr\/\u003EMer information om Garantifonden hittar du på \u003Ca href=\u0022http:\/\/www.gii.dk\u0022\u003Ewww.gii.dk\u003C\/a\u003E.","Description":"Ett regelbundet sparande ger dig möjlighet att planera för framtiden. Oavsett om du vill spara en liten slant eller en stor hittar du ett sparande hos oss som passar dig. Vi har konkurrenskraftiga räntor som tål att jämföras.","Priority":"40","Rates":[{"BindTime":"0months","MinRate":0.55,"MaxRate":1.3,"MinNumberOfFreeWithdrawals":null,"MaxNumberOfFreeWithdrawals":null,"Rate":"0,55 - 1,30 %"},{"BindTime":"3months","MinRate":1.25,"MaxRate":1.25,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"1,25 %"},{"BindTime":"6months","MinRate":1.5,"MaxRate":1.5,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"1,50 %"},{"BindTime":"1year","MinRate":2.5,"MaxRate":2.5,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"2,50 %"},{"BindTime":"2years","MinRate":3.01,"MaxRate":3.01,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"3,01 %"},{"BindTime":"3years","MinRate":3.22,"MaxRate":3.22,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"3,22 %"},{"BindTime":"5years","MinRate":3.31,"MaxRate":3.31,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"3,31 %"}],"ClickUrl":"\/sparande\/partners\/?providerid=9","ProviderHighResLogoUrl":"https:\/\/resources.compricer.se\/logos\/svg\/new\/171.svg"},{"ProviderName":"PRA Spar","ProviderLogoUrl":"https:\/\/resources.compricer.se\/logos\/big\/493.png","Pay":false,"Slug":"praspar","HasDepositGuarantee":true,"DepositGuaranteeInfo":"","Description":"","Priority":"42","Rates":[{"BindTime":"0months","MinRate":2.35,"MaxRate":2.35,"MinNumberOfFreeWithdrawals":null,"MaxNumberOfFreeWithdrawals":null,"Rate":"2,35 %"}],"ClickUrl":"\/sparande\/partners\/?providerid=37","ProviderHighResLogoUrl":"https:\/\/resources.compricer.se\/logos\/svg\/new\/493.svg"},{"ProviderName":"Svea Bank","ProviderLogoUrl":"https:\/\/resources.compricer.se\/logos\/big\/189.png","Pay":false,"Slug":"sveabank","HasDepositGuarantee":true,"DepositGuaranteeInfo":"","Description":"Välj ett Sparkonto med bra ränta och fria uttag eller bind ditt sparande ett år med ett Kapitalkonto till ännu högre ränta. Hos Svea Ekonomi kan du spara dina pengar på det sätt som passar dig bäst.","Priority":"44","Rates":[{"BindTime":"0months","MinRate":2.3,"MaxRate":2.3,"MinNumberOfFreeWithdrawals":null,"MaxNumberOfFreeWithdrawals":null,"Rate":"2,30 %"},{"BindTime":"1year","MinRate":3.05,"MaxRate":3.05,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"3,05 %"},{"BindTime":"2years","MinRate":3.25,"MaxRate":3.25,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"3,25 %"},{"BindTime":"3years","MinRate":3.4,"MaxRate":3.4,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"3,40 %"}],"ClickUrl":"\/sparande\/partners\/?providerid=19","ProviderHighResLogoUrl":"https:\/\/resources.compricer.se\/logos\/svg\/new\/189.svg"},{"ProviderName":"Bluestep Bank AB (publ)","ProviderLogoUrl":"https:\/\/resources.compricer.se\/logos\/big\/611.png","Pay":false,"Slug":"bluestepbankab","HasDepositGuarantee":true,"DepositGuaranteeInfo":"","Description":"BlueStep ger dig hög ränta, inga avgifter och alla våra konton omfattas av den statliga insättningsgarantin. Välj det som passar dig bäst av våra tio olika sparkonton.","Priority":"46","Rates":[{"BindTime":"0months","MinRate":0.35,"MaxRate":2.15,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":null,"Rate":"0,35 - 2,15 %"},{"BindTime":"3months","MinRate":2.3,"MaxRate":2.3,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"2,30 %"},{"BindTime":"6months","MinRate":2.55,"MaxRate":2.55,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"2,55 %"},{"BindTime":"1year","MinRate":3.05,"MaxRate":3.05,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"3,05 %"},{"BindTime":"2years","MinRate":3.25,"MaxRate":3.25,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"3,25 %"},{"BindTime":"3years","MinRate":3.3,"MaxRate":3.3,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"3,30 %"},{"BindTime":"5years","MinRate":3.35,"MaxRate":3.35,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"3,35 %"}],"ClickUrl":"\/sparande\/partners\/?providerid=51","ProviderHighResLogoUrl":"https:\/\/resources.compricer.se\/logos\/svg\/new\/611.svg"},{"ProviderName":"Handelsbanken","ProviderLogoUrl":"https:\/\/resources.compricer.se\/logos\/big\/159.png","Pay":false,"Slug":"handelsbanken","HasDepositGuarantee":true,"DepositGuaranteeInfo":"","Description":"","Priority":"48","Rates":[{"BindTime":"0months","MinRate":0.5,"MaxRate":1.35,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":null,"Rate":"0,50 - 1,35 %"},{"BindTime":"3months","MinRate":1.95,"MaxRate":1.95,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"1,95 %"},{"BindTime":"6months","MinRate":2.26,"MaxRate":2.26,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"2,26 %"},{"BindTime":"1year","MinRate":2.9,"MaxRate":2.9,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"2,90 %"},{"BindTime":"2years","MinRate":2.95,"MaxRate":2.95,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"2,95 %"},{"BindTime":"3years","MinRate":2.94,"MaxRate":2.94,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"2,94 %"},{"BindTime":"5years","MinRate":2.88,"MaxRate":2.88,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"2,88 %"}],"ClickUrl":"\/sparande\/partners\/?providerid=4","ProviderHighResLogoUrl":"https:\/\/resources.compricer.se\/logos\/svg\/new\/159.svg"},{"ProviderName":"Länsförsäkringar Bank","ProviderLogoUrl":"https:\/\/resources.compricer.se\/logos\/big\/169.png","Pay":false,"Slug":"lansforsakringarbank","HasDepositGuarantee":true,"DepositGuaranteeInfo":"","Description":"","Priority":"53","Rates":[{"BindTime":"0months","MinRate":0.35,"MaxRate":0.75,"MinNumberOfFreeWithdrawals":1,"MaxNumberOfFreeWithdrawals":null,"Rate":"0,35 - 0,75 %"},{"BindTime":"3months","MinRate":1.7,"MaxRate":1.7,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"1,70 %"},{"BindTime":"6months","MinRate":2.1,"MaxRate":2.1,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"2,10 %"},{"BindTime":"1year","MinRate":2.95,"MaxRate":2.95,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"2,95 %"},{"BindTime":"2years","MinRate":3,"MaxRate":3,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"3,00 %"},{"BindTime":"5years","MinRate":3.1,"MaxRate":3.1,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"3,10 %"}],"ClickUrl":"\/sparande\/partners\/?providerid=6","ProviderHighResLogoUrl":"https:\/\/resources.compricer.se\/logos\/svg\/new\/169.svg"},{"ProviderName":"Lantmännen Finans","ProviderLogoUrl":"https:\/\/resources.compricer.se\/logos\/big\/555.png","Pay":false,"Slug":"lantmannenfinans","HasDepositGuarantee":true,"DepositGuaranteeInfo":"","Description":"","Priority":"55","Rates":[{"BindTime":"0months","MinRate":2,"MaxRate":2,"MinNumberOfFreeWithdrawals":null,"MaxNumberOfFreeWithdrawals":null,"Rate":"2,00 %"}],"ClickUrl":"\/sparande\/partners\/?providerid=43","ProviderHighResLogoUrl":"https:\/\/resources.compricer.se\/logos\/svg\/new\/555.svg"},{"ProviderName":"Volvofinans Bank","ProviderLogoUrl":"https:\/\/resources.compricer.se\/logos\/big\/591.png","Pay":false,"Slug":"volvofinansbank","HasDepositGuarantee":true,"DepositGuaranteeInfo":"","Description":"Inga avgifter, ingen bindningstid och alltid fria uttag. Givetvis omfattas sparkontot av den statliga insättningsgarantin. Ansök enkelt direkt via vår internetbank.","Priority":"62","Rates":[{"BindTime":"0months","MinRate":2,"MaxRate":2,"MinNumberOfFreeWithdrawals":null,"MaxNumberOfFreeWithdrawals":null,"Rate":"2,00 %"}],"ClickUrl":"\/sparande\/partners\/?providerid=56","ProviderHighResLogoUrl":"https:\/\/resources.compricer.se\/logos\/svg\/new\/591.svg"},{"ProviderName":"GCC Capital","ProviderLogoUrl":"https:\/\/resources.compricer.se\/logos\/big\/941.png","Pay":false,"Slug":"gcccapital","HasDepositGuarantee":true,"DepositGuaranteeInfo":"","Description":"Inga avgifter eller bindningstider och pengarna omedelbart tillgängliga.\r\nOmfattas av den statliga insättningsgarantin. Ännu bättre ränta om du är beredd att binda dina pengar för en viss tid.","Priority":"63","Rates":[{"BindTime":"0months","MinRate":2.35,"MaxRate":2.35,"MinNumberOfFreeWithdrawals":null,"MaxNumberOfFreeWithdrawals":null,"Rate":"2,35 %"},{"BindTime":"2years","MinRate":3.3,"MaxRate":3.3,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"3,30 %"}],"ClickUrl":"\/sparande\/partners\/?providerid=67","ProviderHighResLogoUrl":"https:\/\/resources.compricer.se\/logos\/svg\/new\/941.svg"},{"ProviderName":"SBAB Bank","ProviderLogoUrl":"https:\/\/resources.compricer.se\/logos\/big\/163.png","Pay":false,"Slug":"sbabbank","HasDepositGuarantee":true,"DepositGuaranteeInfo":"","Description":"SBAB erbjuder sparkonton med bra räntor och insättningsgaranti utan avgifter och bindningstider. Du öppnar ditt konto enkelt i vår app eller på sbab.se.","Priority":"65","Rates":[{"BindTime":"0months","MinRate":2,"MaxRate":2,"MinNumberOfFreeWithdrawals":null,"MaxNumberOfFreeWithdrawals":null,"Rate":"2,00 %"}],"ClickUrl":"\/sparande\/partners\/?providerid=27","ProviderHighResLogoUrl":"https:\/\/resources.compricer.se\/logos\/svg\/new\/163.svg"},{"ProviderName":"BIGBANK sparkonto","ProviderLogoUrl":"https:\/\/resources.compricer.se\/logos\/big\/969.png","Pay":false,"Slug":"bigbanksparkonto","HasDepositGuarantee":true,"DepositGuaranteeInfo":"BIGBANK är medlem i Estlands garantisystem Garantifonden. Fonden är en offentligrättslig aktör vars viktigaste uppgift är att garantera de tillgångar som kunderna har placerat och öka finansieringsbranschens stabilitet och tillförlitlighet.\u003Cbr\/\u003E\u003Cbr\/\u003EGarantisystemet baserar sig på Europaparlamentets och rådets direktiv 94\/19\/EG om system för garanti av insättningar (ändrad genom Europaparlamentets och rådets direktiv 2009\/14\/EG) och den estniska lagen om garantifonden. Det här systemet garanterar till hundra procent även svenska insättningar hos BIGBANK och upplupna räntor upp till 100 000 euro.\u003Cbr\/\u003E\u003Cbr\/\u003EMer information om Garantifonden och garantisystemet finns på Estlands Garantifonds webbplats www.tf.ee\u003Cbr\/\u003E\u003Cbr\/\u003EDet huvudsakliga ansvaret för tillsynen över bankens filial ligger hos Estlands tillsynsmyndighet som bl.a. övervakar bankens soliditet. BIGBANK svenska verksamhet står även under Finansinspektionens tillsyn.\u003Cbr\/\u003E\u003Cbr\/\u003EMer information finns på FI webbplats www.fi.se","Description":"Bigbank erbjuder tryggt, enkelt och säkert sparande genom sina fastränteplaceringar med statlig insättningsgaranti.","Priority":"68","Rates":[{"BindTime":"6months","MinRate":2,"MaxRate":2,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"2,00 %"},{"BindTime":"1year","MinRate":2.5,"MaxRate":2.5,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"2,50 %"},{"BindTime":"2years","MinRate":2.7,"MaxRate":2.7,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"2,70 %"},{"BindTime":"3years","MinRate":2.8,"MaxRate":2.8,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"2,80 %"},{"BindTime":"4years","MinRate":2.8,"MaxRate":2.8,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"2,80 %"},{"BindTime":"5years","MinRate":2.8,"MaxRate":2.8,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"2,80 %"}],"ClickUrl":"\/sparande\/partners\/?providerid=86","ProviderHighResLogoUrl":"https:\/\/resources.compricer.se\/logos\/svg\/new\/969.svg"},{"ProviderName":"Rocker","ProviderLogoUrl":"https:\/\/resources.compricer.se\/logos\/big\/1094.png","Pay":false,"Slug":"rocker","HasDepositGuarantee":true,"DepositGuaranteeInfo":"Insättningsgarantin täcker upp till 1 050 000 kronor per kund och institut. Rocker sparkonto är en sparprodukt av Erik Penser Bank. Skulle du ha två eller fler konton hos både Rocker och Erik Penser Bank läggs beloppen samman och omfattas av den maximala gränsen på 1 050 000 kronor.","Description":"Hos Rocker sparar du säkert och enkelt till en av marknadens mest fördelaktiga villkor. Kontot öppnas på någon minut i vår app och insättningar görs med swish eller banköverföring, enklare kan det inte bli.","Priority":"71","Rates":[{"BindTime":"0months","MinRate":0.39,"MaxRate":1.45,"MinNumberOfFreeWithdrawals":null,"MaxNumberOfFreeWithdrawals":null,"Rate":"0,39 - 1,45 %"}],"ClickUrl":"\/sparande\/partners\/?providerid=119","ProviderHighResLogoUrl":"https:\/\/resources.compricer.se\/logos\/svg\/new\/1094.svg"},{"ProviderName":"Lunar","ProviderLogoUrl":"https:\/\/resources.compricer.se\/logos\/big\/1161.png","Pay":false,"Slug":"lunar","HasDepositGuarantee":true,"DepositGuaranteeInfo":"Dina pengar omfattas av den statliga insättningsgarantin (Indskydergarantifonden på danska) upp till 100.000 EUR (ca 1.000.000 SEK).","Description":"Få ut mer av dina pengar med Lunar. Lunar är en bank-app som alltid finns med dig i din mobil. Med Lunar får du en helt ny översikt över dina utgifter och kan spara och engagera dig i dina pengar utan dolda avgifter. \r\nLunar har en europeisk banklicens och dina pengar skyddas av statliga insättningsgarantin. Som Premium eller Pro-kund har du obegränsat fria uttag.","Priority":"72","Rates":[{"BindTime":"0months","MinRate":2.25,"MaxRate":2.25,"MinNumberOfFreeWithdrawals":null,"MaxNumberOfFreeWithdrawals":null,"Rate":"2,25 %"}],"ClickUrl":"\/sparande\/partners\/?providerid=121","ProviderHighResLogoUrl":"https:\/\/resources.compricer.se\/logos\/svg\/new\/1161.svg"},{"ProviderName":"Avanza Bank sparkonto","ProviderLogoUrl":"https:\/\/resources.compricer.se\/logos\/big\/339.png","Pay":false,"Slug":"avanzabanksparkonto","HasDepositGuarantee":true,"DepositGuaranteeInfo":"","Description":"Få ett pålitligt buffert- och målsparande utan några onödiga avgifter. Välj mellan rörlig och fast ränta. Självklart med insättningsgaranti, gäller per sparinstitut.","Priority":"73","Rates":[{"BindTime":"0months","MinRate":1.1,"MaxRate":1.65,"MinNumberOfFreeWithdrawals":null,"MaxNumberOfFreeWithdrawals":null,"Rate":"1,10 - 1,65 %"}],"ClickUrl":"\/sparande\/partners\/?providerid=41","ProviderHighResLogoUrl":"https:\/\/resources.compricer.se\/logos\/svg\/new\/339.svg"},{"ProviderName":"Klarna","ProviderLogoUrl":"https:\/\/resources.compricer.se\/logos\/big\/1147.png","Pay":false,"Slug":"klarna","HasDepositGuarantee":true,"DepositGuaranteeInfo":"","Description":"Klarna grundades i Stockholm 2005, med målet att göra det enklare för människor att handla på nätet. De senaste 15 åren har tekniken utvecklat, engagerat och förändrat världen omkring oss, men vår målsättning är fortfarande lika relevant som någonsin tidigare, att göra betalningar så enkla, säkra och framförallt så smidiga som möjligt.","Priority":"75","Rates":[{"BindTime":"0months","MinRate":2,"MaxRate":2,"MinNumberOfFreeWithdrawals":null,"MaxNumberOfFreeWithdrawals":null,"Rate":"2,00 %"},{"BindTime":"6months","MinRate":2.19,"MaxRate":2.19,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"2,19 %"},{"BindTime":"1year","MinRate":3.15,"MaxRate":3.15,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"3,15 %"},{"BindTime":"2years","MinRate":3.27,"MaxRate":3.27,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"3,27 %"},{"BindTime":"3years","MinRate":3.32,"MaxRate":3.32,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"3,32 %"},{"BindTime":"4years","MinRate":3.44,"MaxRate":3.44,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"3,44 %"}],"ClickUrl":"\/sparande\/partners\/?providerid=115","ProviderHighResLogoUrl":"https:\/\/resources.compricer.se\/logos\/svg\/new\/1147.svg"},{"ProviderName":"Serafim Finans","ProviderLogoUrl":"https:\/\/resources.compricer.se\/logos\/big\/1132.png","Pay":false,"Slug":"SerafimFinans","HasDepositGuarantee":true,"DepositGuaranteeInfo":"","Description":"Ingen öppningsavgift eller årsavgift. Spara på det sätt som passar dig bäst, antingen med helt fria uttag eller med en bindningstid upp till tre år. Alla våra sparkonton omfattas av den statliga insättningsgarantin som innebär ett tryggt och säkert sparande.","Priority":"77","Rates":[{"BindTime":"0months","MinRate":2.45,"MaxRate":2.45,"MinNumberOfFreeWithdrawals":null,"MaxNumberOfFreeWithdrawals":null,"Rate":"2,45 %"},{"BindTime":"1year","MinRate":3.4,"MaxRate":3.4,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"3,40 %"},{"BindTime":"3years","MinRate":1.4,"MaxRate":1.4,"MinNumberOfFreeWithdrawals":0,"MaxNumberOfFreeWithdrawals":0,"Rate":"1,40 %"}],"ClickUrl":"\/sparande\/partners\/?providerid=110","ProviderHighResLogoUrl":"https:\/\/resources.compricer.se\/logos\/svg\/new\/1132.svg"}]'
+        :calculate="false"
+        domain="www.compricer.se"
+      ></vue-saving-interest-rate-table>
+    </div>
+
+    
+<div class="contents-table-container tw-relative tw-flex tw-flex-col lg:tw-flex-row lg:tw-py-10 lg:tw-container-lg 2xl:tw-py-12">
+  <div class="lg:tw-sticky lg:tw-self-start lg:tw-top-20 lg:tw-w-1/4">
+
+    <div class="contents-table-wrapper tw-h-12 lg:tw-h-auto tw-border-1 tw-border-gray tw-border-solid tw-rounded-md lg:tw-border-0 tw-m-4 tw-overflow-y-hidden">
+      <div
+        onclick="(() => this.parentElement.classList.toggle('open'))()"
+        class="tw-flex tw-justify-between tw-items-center tw-h-12 tw-pl-3 tw-pr-3 lg:tw-p-0 tw-border-0 tw-border-b tw-border-gray tw-border-solid"
+      >
+        <span class="tw-block tw-text-base lg:tw-font-bold tw-text-gray-700 lg:tw-uppercase">Innehåll</span>
+        <div class="select-arrow tw-w-2 tw-h-2 lg:tw-hidden"></div>
+      </div>
+      <ul class="contents-table tw-list-none tw-p-0 tw-mt-4 lg:tw-overflow-y-auto">
+                <li class="tw-mb-2 lg:tw-mb-6 tw-block">
+          <a
+            class="tw-block lg:tw-mb-2 tw-text-base lg:tw-text-xl lg:tw-font-bold tw-text-gray-800 tw-pl-6 lg:tw-pl-3"
+            href="#main-Jämför-sparkonton-och-sparräntor-på-Compricer"
+          >
+            Jämför sparkonton och sparräntor på Compricer          </a>
+          <ul class="tw-list-disc lg:tw-list-none tw-pl-14 lg:tw-pl-0">
+                        <li class="tw-mb-1 lg:tw-mb-2">
+              <a
+                class="tw-block tw-text-sm lg:tw-text-base tw-text-gray-800 lg:tw-pl-11"
+                href="#sub-Hitta-den-bästa-sparräntan"
+              >
+                Hitta den bästa sparräntan              </a>
+            </li>
+                        <li class="tw-mb-1 lg:tw-mb-2">
+              <a
+                class="tw-block tw-text-sm lg:tw-text-base tw-text-gray-800 lg:tw-pl-11"
+                href="#sub-Om-jämförelsen-av-sparräntor"
+              >
+                Om jämförelsen av sparräntor              </a>
+            </li>
+                        <li class="tw-mb-1 lg:tw-mb-2">
+              <a
+                class="tw-block tw-text-sm lg:tw-text-base tw-text-gray-800 lg:tw-pl-11"
+                href="#sub-Så-hittar-du-en-bra-sparränta"
+              >
+                Så hittar du en bra sparränta              </a>
+            </li>
+                      </ul>
+        </li>
+                <li class="tw-mb-2 lg:tw-mb-6 tw-block">
+          <a
+            class="tw-block lg:tw-mb-2 tw-text-base lg:tw-text-xl lg:tw-font-bold tw-text-gray-800 tw-pl-6 lg:tw-pl-3"
+            href="#main-Om-begreppen-i-listan"
+          >
+            Om begreppen i listan          </a>
+          <ul class="tw-list-disc lg:tw-list-none tw-pl-14 lg:tw-pl-0">
+                        <li class="tw-mb-1 lg:tw-mb-2">
+              <a
+                class="tw-block tw-text-sm lg:tw-text-base tw-text-gray-800 lg:tw-pl-11"
+                href="#sub-Spara-pengar-på-sparkonto"
+              >
+                Spara pengar på sparkonto              </a>
+            </li>
+                        <li class="tw-mb-1 lg:tw-mb-2">
+              <a
+                class="tw-block tw-text-sm lg:tw-text-base tw-text-gray-800 lg:tw-pl-11"
+                href="#sub-Om-att-spara-pengar-på-sparkonto"
+              >
+                Om att spara pengar på sparkonto              </a>
+            </li>
+                        <li class="tw-mb-1 lg:tw-mb-2">
+              <a
+                class="tw-block tw-text-sm lg:tw-text-base tw-text-gray-800 lg:tw-pl-11"
+                href="#sub-Så-öppnar-du-ett-sparkonto"
+              >
+                Så öppnar du ett sparkonto              </a>
+            </li>
+                      </ul>
+        </li>
+                <li class="tw-mb-2 lg:tw-mb-6 tw-block">
+          <a
+            class="tw-block lg:tw-mb-2 tw-text-base lg:tw-text-xl lg:tw-font-bold tw-text-gray-800 tw-pl-6 lg:tw-pl-3"
+            href="#main-Bra-saker-att-tänka-på-innan-du-väljer-ett-sparkonto"
+          >
+            Bra saker att tänka på innan du väljer ett sparkonto          </a>
+          <ul class="tw-list-disc lg:tw-list-none tw-pl-14 lg:tw-pl-0">
+                        <li class="tw-mb-1 lg:tw-mb-2">
+              <a
+                class="tw-block tw-text-sm lg:tw-text-base tw-text-gray-800 lg:tw-pl-11"
+                href="#sub-Kan-du-vara-utan-pengarna-eller-inte?"
+              >
+                Kan du vara utan pengarna eller inte?              </a>
+            </li>
+                        <li class="tw-mb-1 lg:tw-mb-2">
+              <a
+                class="tw-block tw-text-sm lg:tw-text-base tw-text-gray-800 lg:tw-pl-11"
+                href="#sub-Vill-du-att-dina-pengar-ska-vara-säkra?"
+              >
+                Vill du att dina pengar ska vara säkra?              </a>
+            </li>
+                      </ul>
+        </li>
+                <li class="tw-mb-2 lg:tw-mb-6 tw-block">
+          <a
+            class="tw-block lg:tw-mb-2 tw-text-base lg:tw-text-xl lg:tw-font-bold tw-text-gray-800 tw-pl-6 lg:tw-pl-3"
+            href="#main-Är-mina-pengar-säkra?"
+          >
+            Är mina pengar säkra?          </a>
+          <ul class="tw-list-disc lg:tw-list-none tw-pl-14 lg:tw-pl-0">
+                        <li class="tw-mb-1 lg:tw-mb-2">
+              <a
+                class="tw-block tw-text-sm lg:tw-text-base tw-text-gray-800 lg:tw-pl-11"
+                href="#sub-Statliga-insättningsgarantin"
+              >
+                Statliga insättningsgarantin              </a>
+            </li>
+                        <li class="tw-mb-1 lg:tw-mb-2">
+              <a
+                class="tw-block tw-text-sm lg:tw-text-base tw-text-gray-800 lg:tw-pl-11"
+                href="#sub-Banker,-kreditmarknadsbolag-och-inlåningsföretag"
+              >
+                Banker, kreditmarknadsbolag och inlåningsföretag              </a>
+            </li>
+                        <li class="tw-mb-1 lg:tw-mb-2">
+              <a
+                class="tw-block tw-text-sm lg:tw-text-base tw-text-gray-800 lg:tw-pl-11"
+                href="#sub-Högräntekonton-förbjuds-2021"
+              >
+                Högräntekonton förbjuds 2021              </a>
+            </li>
+                      </ul>
+        </li>
+                <li class="tw-mb-2 lg:tw-mb-6 tw-block">
+          <a
+            class="tw-block lg:tw-mb-2 tw-text-base lg:tw-text-xl lg:tw-font-bold tw-text-gray-800 tw-pl-6 lg:tw-pl-3"
+            href="#main-Vilket-konto-ska-jag-välja?"
+          >
+            Vilket konto ska jag välja?          </a>
+          <ul class="tw-list-disc lg:tw-list-none tw-pl-14 lg:tw-pl-0">
+                        <li class="tw-mb-1 lg:tw-mb-2">
+              <a
+                class="tw-block tw-text-sm lg:tw-text-base tw-text-gray-800 lg:tw-pl-11"
+                href="#sub-Olika-typer-av-sparkonton"
+              >
+                Olika typer av sparkonton              </a>
+            </li>
+                        <li class="tw-mb-1 lg:tw-mb-2">
+              <a
+                class="tw-block tw-text-sm lg:tw-text-base tw-text-gray-800 lg:tw-pl-11"
+                href="#sub-Sparkonton-för-privatpersoner-och-företag"
+              >
+                Sparkonton för privatpersoner och företag              </a>
+            </li>
+                      </ul>
+        </li>
+                <li class="tw-mb-2 lg:tw-mb-6 tw-block">
+          <a
+            class="tw-block lg:tw-mb-2 tw-text-base lg:tw-text-xl lg:tw-font-bold tw-text-gray-800 tw-pl-6 lg:tw-pl-3"
+            href="#main-Bra-att-veta"
+          >
+            Bra att veta          </a>
+          <ul class="tw-list-disc lg:tw-list-none tw-pl-14 lg:tw-pl-0">
+                        <li class="tw-mb-1 lg:tw-mb-2">
+              <a
+                class="tw-block tw-text-sm lg:tw-text-base tw-text-gray-800 lg:tw-pl-11"
+                href="#sub-Detta-påverkar-sparräntan"
+              >
+                Detta påverkar sparräntan              </a>
+            </li>
+                        <li class="tw-mb-1 lg:tw-mb-2">
+              <a
+                class="tw-block tw-text-sm lg:tw-text-base tw-text-gray-800 lg:tw-pl-11"
+                href="#sub-Skatt-på-sparkonton"
+              >
+                Skatt på sparkonton              </a>
+            </li>
+                      </ul>
+        </li>
+                <li class="tw-mb-2 lg:tw-mb-6 tw-block">
+          <a
+            class="tw-block lg:tw-mb-2 tw-text-base lg:tw-text-xl lg:tw-font-bold tw-text-gray-800 tw-pl-6 lg:tw-pl-3"
+            href="#main-Om-oss"
+          >
+            Om oss          </a>
+          <ul class="tw-list-disc lg:tw-list-none tw-pl-14 lg:tw-pl-0">
+                        <li class="tw-mb-1 lg:tw-mb-2">
+              <a
+                class="tw-block tw-text-sm lg:tw-text-base tw-text-gray-800 lg:tw-pl-11"
+                href="#sub-Compricer-Sparkonto"
+              >
+                Compricer Sparkonto              </a>
+            </li>
+                        <li class="tw-mb-1 lg:tw-mb-2">
+              <a
+                class="tw-block tw-text-sm lg:tw-text-base tw-text-gray-800 lg:tw-pl-11"
+                href="#sub-Fördelar-med-att-jämföra-sparkonton-på-Compricer"
+              >
+                Fördelar med att jämföra sparkonton på Compricer              </a>
+            </li>
+                        <li class="tw-mb-1 lg:tw-mb-2">
+              <a
+                class="tw-block tw-text-sm lg:tw-text-base tw-text-gray-800 lg:tw-pl-11"
+                href="#sub-Jämför-sparkonton-och-sparräntor-idag"
+              >
+                Jämför sparkonton och sparräntor idag              </a>
+            </li>
+                      </ul>
+        </li>
+              </ul>
+    </div>
+
+  </div>
+
+  <div class="contents-container tw-overflow-x-hidden lg:tw-w-3/4">
+    <div class="ui-seo tw-bg-white">
+        <section
+    id="main-Jämför-sparkonton-och-sparräntor-på-Compricer"
+    style="scroll-margin-top: 5rem"
+    class="vertical-points tw-block right container"
+  >
+    <h2>Jämför sparkonton och sparräntor på Compricer</h2>    <img
+      loading="lazy"
+      alt="Jämför sparkonton och sparräntor - Hitta den bästa sparräntan"
+      class="image tw-image-radius"
+      srcset="
+        https://resources.compricer.se/general/savings/sparkonto_1_sm.jpg 540w,
+        https://resources.compricer.se/general/savings/sparkonto_1_md.jpg 1256w"
+      sizes="(min-width: 1024px) 540w, (min-width: 1280px) 576w, 100vw"
+      src="https://resources.compricer.se/general/savings/sparkonto_1_md.jpg"
+    />
+    <div class="content">
+      <h3 style='scroll-margin-top: 5rem;' id='sub-Hitta-den-bästa-sparräntan'h3>Hitta den bästa sparräntan</h3><br/>Vill du ha en så bra sparränta som möjligt? Då har du kommit helt rätt!<br/><br/>Compricer är Sveriges största jämförelsetjänst för privatekonomi och här kan du smidigt och enkelt jämföra olika sparkonton och sparräntor.<br/><br/>Med hjälp av vår kostnadsfria jämförelse hittar du snabbt den <strong>bästa sparräntan</strong> för just dig och dina pengar. Jämför idag och skaffa ett bra sparkonto med ränta du också.<br/><br/><h3 style='scroll-margin-top: 5rem;' id='sub-Om-jämförelsen-av-sparräntor'h3>Om jämförelsen av sparräntor</h3><br/>Med hjälp av denna jämförelse kan du snabbt och enkelt hitta aktuella räntor hos landets <strong>banker</strong>, <strong>kreditmarknadsbolag</strong> och <strong>inlåningsföretag</strong>. Kort och gott: vi listar sparbolagens räntor så du kan hitta ett bra sparkonto för dina pengar.<br/><br/>Vi listar aktörer som har <strong>tillstånd från Finansinspektionen</strong> att bedriva inlåning på den svenska marknaden. Det innebär att du kan känna dig <strong>trygg och säker</strong> med vår tjänst.<br/><br/>Vår ambition är att samtliga sparkonton som finns på den svenska marknaden ska finnas med i jämförelsen.<br/><br/><h3 style='scroll-margin-top: 5rem;' id='sub-Så-hittar-du-en-bra-sparränta'h3>Så hittar du en bra sparränta</h3><br/>Vi har gjort det enkelt för dig att jämföra sparkonton.<br/><br/><b>Gör så här:</b><br/><br/>1. Börja med att fylla i ditt sparbelopp<br/>2. Välj om du vill ha rörlig eller bunden ränta<br/>3. Välj om du enbart vill jämföra konton med insättningsgaranti eller inte<br/>4. Välj om du enbart är intresserad av konton med fria uttag eller inte<br/><br/>Nu presenteras en lista för dig som matchar dina krav. Högst upp finner du det bolag som har den bästa räntan. Här kan du läsa mer om kontot, aktuell ränta och övriga villkor.<br/><br/>Så enkelt är det att <strong>hitta en bra sparränta</strong> och det bästa av allt är att det är helt kostnadsfritt för dig.<br/>    </div>
+  </section>
+    </div>
+
+<section class="container tw-text-center">
+  <h2 class="tw-text-2xl lg:tw-text-4xl lg:tw-mb-6">Christina tipsar
+  </h2>
+  <div class="youtube-wrapper">
+    <div class="inner">
+      <iframe
+        type="text/html"
+        width="100%"
+        height="100%"
+        src="//www.youtube.com/embed/ppIUzYGiF_k?rel=0"
+        frameborder="0"
+        loading="lazy"
+      ></iframe>
+    </div>
+  </div>
+  <script type="application/ld+json">
+    { "@context": "http://schema.org", "@type": "VideoObject", "name": "Tips för dig som vill ha ett bra sparkonto med ränta", "description": "Compricers sparekonom Christina Sahlberg tipsar om bra saker att tänka på för dig som vill börja spara på ett konto med bra ränta.", "thumbnailUrl": "https://resources.compricer.se/general/video_thumbnails/sparkonto.jpg", "uploadDate": "2022-01-07T12:17:22Z", "duration": "PT34S", "contentUrl": "https://www.youtube.com/watch?v=ppIUzYGiF_k", "embedUrl": "https://www.youtube.com/embed/ppIUzYGiF_k?rel=0", "hasPart": [{ "@type": "Clip", "name": "Om sparkonto", "startOffset": 0, "endOffset": 8, "url": "https://www.youtube.com/watch?v=ppIUzYGiF_k&t=0s" }, { "@type": "Clip", "name": "Jämför aktörerna på marknaden", "startOffset": 9, "endOffset": 17, "url": "https://www.youtube.com/watch?v=ppIUzYGiF_k&t=9s" }, { "@type": "Clip", "name": "Välj ett konto med insättningsgaranti", "startOffset": 18, "endOffset": 34, "url": "https://www.youtube.com/watch?v=ppIUzYGiF_k&t=18s" }] }  </script>
+</section>
+<div class="ui-seo tw-bg-white">
+        <section
+    id="main-Om-begreppen-i-listan"
+    style="scroll-margin-top: 5rem"
+    class="vertical-points tw-block left container"
+  >
+    <h2>Om begreppen i listan</h2>    <img
+      loading="lazy"
+      alt="Om att spara pengar på ett sparkonto"
+      class="image tw-image-radius"
+      srcset="
+        https://resources.compricer.se/general/savings/sparkonto_2_sm.jpg 540w,
+        https://resources.compricer.se/general/savings/sparkonto_2_md.jpg 1256w"
+      sizes="(min-width: 1024px) 540w, (min-width: 1280px) 576w, 100vw"
+      src="https://resources.compricer.se/general/savings/sparkonto_2_md.jpg"
+    />
+    <div class="content">
+      <h3 style='scroll-margin-top: 5rem;' id='sub-Spara-pengar-på-sparkonto'h3>Spara pengar på sparkonto</h3><br/>När du tittar i listan över sparkonton ser du att det förekommer en del ord och begrepp. Här guidar vi dig igenom dess betydelse.<br/><br/>• <strong>Räntans bindningstid</strong> - om räntan är rörlig (obunden) eller fast (bunden)<br/>• <strong>Insättningsgaranti</strong> - om sparkontot omfattas av den statliga insättningsgarantin eller inte<br/>• <strong>Fria uttag</strong> - om du kan ta ut pengar hur ofta du vill eller inte<br/>• <strong>Årsränta</strong> - den ränta som är aktuell för det givna sparkontot just nu<br/><br/><h3 style='scroll-margin-top: 5rem;' id='sub-Om-att-spara-pengar-på-sparkonto'h3>Om att spara pengar på sparkonto</h3><br/>Ett sparkonto är ett konto dit du sätter in pengar och får avkastning tillbaka i form av ränta.<br/><br/>Ett sparkonto passar dig som <strong>inte vill riskera ditt kapital</strong> (förutsatt att sparkontot omfattas av insättningsgarantin). Till exempel kan det handla om att du vill ha ett buffertsparande eller ett sparande till en resa eller kontantinsats i framtiden.<br/><br/>Se på sparkontot ungefär som en parkeringsplats. Det är inget för dig som är ung och vill spara till pensionen. Inte heller kommer du bli särskilt rik på avkastningen du får men för dig som inte vill eller kan riskera dina pengar är sparkontot det rätta stället att placera dina pengar på.<br/><br/><h3 style='scroll-margin-top: 5rem;' id='sub-Så-öppnar-du-ett-sparkonto'h3>Så öppnar du ett sparkonto</h3><br/>Beroende på vilket bolag du väljer att öppna ett sparkonto hos kan förfarandet ske på lite olika sätt. Idag är det vanligt att kunna öppna ett sparkonto med hjälp av ett mobilt bank-id men i en del fall kan det krävas att du fyller i en blankett och skickar in.<br/><br/>När ditt sparkonto är registrerat och klart är det redo för att ta emot din insättning.    </div>
+  </section>
+        <section
+    id="main-Bra-saker-att-tänka-på-innan-du-väljer-ett-sparkonto"
+    style="scroll-margin-top: 5rem"
+    class="vertical-points tw-block right container"
+  >
+    <h2>Bra saker att tänka på innan du väljer ett sparkonto</h2>    <img
+      loading="lazy"
+      alt="Bra saker att tänka på innan du väljer ett sparkonto"
+      class="image tw-image-radius"
+      srcset="
+        https://resources.compricer.se/general/savings/sparkonto_3_sm.jpg 540w,
+        https://resources.compricer.se/general/savings/sparkonto_3_md.jpg 1256w"
+      sizes="(min-width: 1024px) 540w, (min-width: 1280px) 576w, 100vw"
+      src="https://resources.compricer.se/general/savings/sparkonto_3_md.jpg"
+    />
+    <div class="content">
+      Innan du sätter in dina pengar och börjar spara på ett sparkonto finns det en del saker som kan vara <strong>bra att tänka på</strong>. Då ökar chansen att du kommer hitta rätt konto för just dig och det behov du har.<br/><br/><h3 style='scroll-margin-top: 5rem;' id='sub-Kan-du-vara-utan-pengarna-eller-inte?'h3>Kan du vara utan pengarna eller inte?</h3><br/>Om du inte behöver pengarna på ett tag kan det vara bra att välja ett sparkonto med fast ränta. Ofta, men inte alltid, går det att få en lite bättre ränta om du binder dina pengar. Det är dock viktigt att komma ihåg att pengarna då är bundna. Att ta ut pengarna i förtid kan vara omöjligt hos vissa bolag och hos andra kan det kosta att göra det.<br/><br/><h3 style='scroll-margin-top: 5rem;' id='sub-Vill-du-att-dina-pengar-ska-vara-säkra?'h3>Vill du att dina pengar ska vara säkra?</h3><br/>Välj ett sparkonto som omfattas av den <strong>statliga insättningsgarantin</strong>. Då vet du att dina pengar är garanterade ifall bolaget du sparar hos skulle gå i konkurs eller av andra skäl få svårt att betala ut dina pengar.<br/><br/><strong>Undvik konton med avgifter</strong> och <strong>krångliga villkor</strong>. Du ska inte behöva betala pengar för att sätta in dina pengar hos ett sparbolag och om det verkar vara krångliga villkor eller luddiga avgifter… välj då ett annat sparkonto.<br/><br/>När du vet vilken typ av sparkonto som passar dig och det behov du har – välj det bästa sparkontot med den högsta sparräntan. Använd vår kostnadsfria jämförelse för att hitta ett sådant konto.    </div>
+  </section>
+        <section
+    id="main-Är-mina-pengar-säkra?"
+    style="scroll-margin-top: 5rem"
+    class="vertical-points tw-block left container"
+  >
+    <h2>Är mina pengar säkra?</h2>    <img
+      loading="lazy"
+      alt="Statliga insättningsgarantin skyddar dina pengar"
+      class="image tw-image-radius"
+      srcset="
+        https://resources.compricer.se/general/savings/sparkonto_4_sm.jpg 540w,
+        https://resources.compricer.se/general/savings/sparkonto_4_md.jpg 1256w"
+      sizes="(min-width: 1024px) 540w, (min-width: 1280px) 576w, 100vw"
+      src="https://resources.compricer.se/general/savings/sparkonto_4_md.jpg"
+    />
+    <div class="content">
+      <h3 style='scroll-margin-top: 5rem;' id='sub-Statliga-insättningsgarantin'h3>Statliga insättningsgarantin</h3><br/>Insättningsgarantin är en statlig garanti som skyddar den som sparar pengar på ett sparkonto. Om bolaget du sparar hos omfattas av skyddet och helt plötsligt går i konkurs eller av andra anledningar får svårt att betala ut dina pengar till dig så träder insättningsgarantin in och ersätter dig.<br/><br/>Insättningsgarantin administreras av Riksgälden och finansieras av de bolag som är med i den. I vår jämförelse ser du enkelt och tydligt om ett sparkonto omfattas av garantin eller inte.<br/><br/>Insättningsgarantin täcker upp till <strong>1 050 000 kronor per kund och institut</strong>. Har du mer pengar än så på ett sparkonto kan pengarna gå förlorade om oturen är framme. I dessa fall kan det vara bra att sprida ditt sparande på fler bolag som omfattas av garantin.<br/><br/>Det finns några specialtillfällen som är undantagna från maxtaket på 1 050 000 kronor. Det gäller till exempel om du nyligen fått pengarna på grund av en försäljning av en privatbostad, ersättning från ett försäkringsbolag, bodelning, pension eller på grund av sjukdom, invaliditet och dödsfall med mera.<br/><br/>För en del sparkonton kan ett annat lands insättningsgaranti gälla. I de fallen ser du detta i jämförelsen i anslutning till sparkontot och på bolagets egna webbplats.<br/><br/><h3 style='scroll-margin-top: 5rem;' id='sub-Banker,-kreditmarknadsbolag-och-inlåningsföretag'h3>Banker, kreditmarknadsbolag och inlåningsföretag</h3><br/>Vi jämför banker, kreditmarknadsbolag och inlåningsföretag som är <strong>registrerade hos den svenska Finansinspektionen</strong> och som har <strong>tillstånd</strong> att bedriva inlåning på den svenska marknaden.<br/><br/>Här hittar du räntor och villkor på sparkonton från storbankerna SEB, Swedbank, Handelsbanken och Nordea men även mindre aktörer som Avanza, Nordax Bank, Collector Bank, Santander, Svea Ekonomi och Marginalen Bank med flera finns representerade.<br/><br/>Just nu kan du jämföra <strong>närmare 50 olika sparbolag</strong> på Compricer.<br/><br/><h3 style='scroll-margin-top: 5rem;' id='sub-Högräntekonton-förbjuds-2021'h3>Högräntekonton förbjuds 2021</h3><br/>Från och med 1 januari 2021 kommer inlåningsföretag, <strong>som inte omfattas av insättningsgarantin</strong>, att förbjudas. Dessa har ofta erbjudit så kallade högräntekonton med ett maxtak på 50 000 kronor per kund.<br/><br/>Bolag som redan har tillstånd får fortsätta erbjuda dessa sparkonton under 2021 men ska senast 31 december 2021 avveckla verksamheten om de väljer att inte ombilda sig till bank.    </div>
+  </section>
+        <section
+    id="main-Vilket-konto-ska-jag-välja?"
+    style="scroll-margin-top: 5rem"
+    class="vertical-points tw-block right container"
+  >
+    <h2>Vilket konto ska jag välja?</h2>    <img
+      loading="lazy"
+      alt="Olika typer av sparkonton"
+      class="image tw-image-radius"
+      srcset="
+        https://resources.compricer.se/general/savings/sparkonto_5_sm.jpg 540w,
+        https://resources.compricer.se/general/savings/sparkonto_5_md.jpg 1256w"
+      sizes="(min-width: 1024px) 540w, (min-width: 1280px) 576w, 100vw"
+      src="https://resources.compricer.se/general/savings/sparkonto_5_md.jpg"
+    />
+    <div class="content">
+      <h3 style='scroll-margin-top: 5rem;' id='sub-Olika-typer-av-sparkonton'h3>Olika typer av sparkonton</h3><br/>Det finns mängder av olika sparkonton att välja emellan och vid en första anblick kan det vara svårt att förstå vad alla olika varianter innebär. Namn som buffertkonto, placeringskonto, allkonto, framtidskonto, kapitalkonto och privatkonto osv kan förbrylla.<br/><br/>I praktiken är det dock mycket enkelt. I huvudsak finns det <strong>två olika typer av sparkonton</strong> - <strong>rörliga obundna sparkonton</strong> samt <strong>fasträntekonton</strong>.<br/><br/>Ett rörligt obundet sparkonto har en rörlig ränta som kan ändras, upp eller ned, av sparbolaget under den tid du sparar. Ett fasträntekonto har en på förhand bestämd ränta som gäller under hela den tid som bindningstiden är på.<br/><br/><h3 style='scroll-margin-top: 5rem;' id='sub-Sparkonton-för-privatpersoner-och-företag'h3>Sparkonton för privatpersoner och företag</h3><br/>Vår jämförelse är i första hand utvecklad för att kunna erbjuda privatpersoner att hitta konton med bra sparränta. Dock erbjuder sparbolagen många gånger även företag att öppna ett sparkonto till liknande räntevillkor.<br/><br/>För dig som representerar ett företag kan du utgå från vår jämförelse och se om du kan hitta ett bra sparkonto för ditt företag.    </div>
+  </section>
+        <section
+    id="main-Bra-att-veta"
+    style="scroll-margin-top: 5rem"
+    class="vertical-points tw-block left container"
+  >
+    <h2>Bra att veta</h2>    <img
+      loading="lazy"
+      alt="Faktorer som påverkar sparräntan och din avkastning"
+      class="image tw-image-radius"
+      srcset="
+        https://resources.compricer.se/general/savings/sparkonto_6_sm.jpg 540w,
+        https://resources.compricer.se/general/savings/sparkonto_6_md.jpg 1256w"
+      sizes="(min-width: 1024px) 540w, (min-width: 1280px) 576w, 100vw"
+      src="https://resources.compricer.se/general/savings/sparkonto_6_md.jpg"
+    />
+    <div class="content">
+      <h3 style='scroll-margin-top: 5rem;' id='sub-Detta-påverkar-sparräntan'h3>Detta påverkar sparräntan</h3><br/>Sparräntan, eller inlåningsräntan som den också kallas, sätts av sparbolagen utifrån en mängd olika parametrar.<br/><br/>Du har kanske märkt att mindre retailbanker, även kallat nischbanker, ofta har en bättre sparränta än de stora bankerna. Det beror på att de vill konkurrera om att få ta emot dina pengar och de gör det genom att erbjuda en högre ränta.<br/><br/>Den viktigaste faktorn som påverkar din ränta är <strong>konkurrensläget på marknaden</strong> just nu men även <strong>utvecklingen på räntemarknaderna</strong> och <strong>Riksbankens reporänta</strong> påverkar din sparränta.<br/><br/><h3 style='scroll-margin-top: 5rem;' id='sub-Skatt-på-sparkonton'h3>Skatt på sparkonton</h3><br/>När du sparar på ett sparkonto är bolaget du sparar hos skyldiga att dra <strong>30 procent i skatt</strong> på den avkastning du fått. Normalt görs detta kring årsskiftet och den summa som läggs till ditt saldo på sparkontot är nettot du får behålla efter att skatten är dragen.    </div>
+  </section>
+        <section
+    id="main-Om-oss"
+    style="scroll-margin-top: 5rem"
+    class="vertical-points tw-block right container"
+  >
+    <h2>Om oss</h2>    <img
+      loading="lazy"
+      alt="Hitta ett bra sparkonto med ränta"
+      class="image tw-image-radius"
+      srcset="
+        https://resources.compricer.se/general/savings/sparkonto_7_sm.jpg 540w,
+        https://resources.compricer.se/general/savings/sparkonto_7_md.jpg 1256w"
+      sizes="(min-width: 1024px) 540w, (min-width: 1280px) 576w, 100vw"
+      src="https://resources.compricer.se/general/savings/sparkonto_7_md.jpg"
+    />
+    <div class="content">
+      <h3 style='scroll-margin-top: 5rem;' id='sub-Compricer-Sparkonto'h3>Compricer Sparkonto</h3><br/>Compricer är Sveriges <strong>största jämförelsetjänst för privatekonomi</strong> och varje dag hjälper vi tusentals svenskar att hitta en bättre sparränta.<br/><br/>Vi ägs av Schibsted, Skandinaviens största mediekoncern, som bland annat äger Aftonbladet, Svenska Dagbladet och Blocket med flera.<br/><br/>Vi är registrerade som försäkringsdistributör och bostadskreditsförmedlare hos <strong>Bolagsverket</strong> samt står under <strong>Finansinspektionens tillsyn</strong>.<br/><br/>Våra användare är <strong>mycket nöjda</strong> och det syns på Trustpilot där våra kunder gett oss betyget Utmärkt vilket är det bästa omdömet som går att få.<br/><br/><h3 style='scroll-margin-top: 5rem;' id='sub-Fördelar-med-att-jämföra-sparkonton-på-Compricer'h3>Fördelar med att jämföra sparkonton på Compricer</h3><br/>✓ Enkelt att snabbt hitta bästa sparräntan<br/>✓ Jämför rörliga och bundna konton<br/>✓ Kostnadsfri tjänst<br/><br/><h3 style='scroll-margin-top: 5rem;' id='sub-Jämför-sparkonton-och-sparräntor-idag'h3>Jämför sparkonton och sparräntor idag</h3><br/>Nu är det dags att hitta en riktigt bra sparränta åt dig. Jämför och få förslag på bra sparkonton som passar just dig – <strong>helt kostnadsfritt!</strong>    </div>
+  </section>
+    </div>
+  </div>
+</div>
+
+    <div class="ui-seo tw-bg-gray-100 tw-pb-2 lg:tw-pt-8 lg:tw-pb-4">
+      <div class="container">
+        <section
+          itemscope
+          itemtype="https://schema.org/FAQPage"
+        >
+          <h2 class="ui-card-title title-with-border">Vanliga frågor och svar om sparkonton</h2>
+          <div
+            itemscope
+            itemprop="mainEntity"
+            itemtype="https://schema.org/Question"
+          >
+            <h4 itemprop="name">Vilken bank har den bästa sparräntan?</h4>
+            <div
+              itemscope
+              itemprop="acceptedAnswer"
+              itemtype="https://schema.org/Answer"
+            >
+              <div itemprop="text">
+                <p>
+                  Vilken bank som har den bästa sparräntan varierar beroende på ditt sparbelopp, typ av
+                  sparkonto du är intresserad av och om du vill ha en rörlig eller bunden ränta. Jämför på
+                  Compricer så ser du vilket sparkonto som har den bästa räntan för dig!
+                </p>
+              </div>
+            </div>
+          </div>
+          <div
+            itemscope
+            itemprop="mainEntity"
+            itemtype="https://schema.org/Question"
+          >
+            <h4 itemprop="name">Vad kostar det att jämföra sparräntor på Compricer?</h4>
+            <div
+              itemscope
+              itemprop="acceptedAnswer"
+              itemtype="https://schema.org/Answer"
+            >
+              <div itemprop="text">
+                <p>
+                  Ingenting. Det är helt kostnadsfritt att jämföra sparräntor på Compricer.
+                </p>
+              </div>
+            </div>
+          </div>
+          <div
+            itemscope
+            itemprop="mainEntity"
+            itemtype="https://schema.org/Question"
+          >
+            <h4 itemprop="name">Vilka banker erbjuder sparkonto med ränta?</h4>
+            <div
+              itemscope
+              itemprop="acceptedAnswer"
+              itemtype="https://schema.org/Answer"
+            >
+              <div itemprop="text">
+                <p>
+                  Generellt är det hos de mindre retailbankerna som du hittar de bästa sparräntorna men även
+                  större banker har ofta åtminstone något sparkonto med ränta.
+                </p>
+              </div>
+            </div>
+          </div>
+          <div
+            itemscope
+            itemprop="mainEntity"
+            itemtype="https://schema.org/Question"
+          >
+            <h4 itemprop="name">Vad är ett sparkonto?</h4>
+            <div
+              itemscope
+              itemprop="acceptedAnswer"
+              itemtype="https://schema.org/Answer"
+            >
+              <div itemprop="text">
+                <p>
+                  Ett sparkonto är ett konto du öppnar hos en bank eller kreditmarknadsbolag där du kan spara
+                  pengar.
+                </p>
+              </div>
+            </div>
+          </div>
+          <div
+            itemscope
+            itemprop="mainEntity"
+            itemtype="https://schema.org/Question"
+          >
+            <h4 itemprop="name">Vad är sparränta?</h4>
+            <div
+              itemscope
+              itemprop="acceptedAnswer"
+              itemtype="https://schema.org/Answer"
+            >
+              <div itemprop="text">
+                <p>
+                  Sparränta kallas den ränta som du får av en bank eller ett kreditmarknadsbolag när du sparar
+                  pengar på ett sparkonto hos dem.
+                </p>
+              </div>
+            </div>
+          </div>
+          <div
+            itemscope
+            itemprop="mainEntity"
+            itemtype="https://schema.org/Question"
+          >
+            <h4 itemprop="name">Vad är insättningsgarantin?</h4>
+            <div
+              itemscope
+              itemprop="acceptedAnswer"
+              itemtype="https://schema.org/Answer"
+            >
+              <div itemprop="text">
+                <p>
+                  Insättningsgarantin är en statlig garanti som ersätter upp till och med 1 050 000 kronor per
+                  kund och institut vid händelse av att ett sparbolag går i konkurs eller liknande.
+                </p>
+              </div>
+            </div>
+          </div>
+          <div
+            itemscope
+            itemprop="mainEntity"
+            itemtype="https://schema.org/Question"
+          >
+            <h4 itemprop="name">Ska man ha rörlig eller bunden sparränta?</h4>
+            <div
+              itemscope
+              itemprop="acceptedAnswer"
+              itemtype="https://schema.org/Answer"
+            >
+              <div itemprop="text">
+                <p>
+                  Syftet med ditt sparande avgör vilken typ av sparkonto som passar dig. Kan du vara utan
+                  pengarna en tid kan en bunden sparränta vara bra. Behöver du kunna ha tillgång till pengarna
+                  med kort varsel är ett rörligt sparkonto att föredra.
+                </p>
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+    </div>
+
+    <div class="ui-seo tw-bg-gray-100 tw-py-6 tw-my-10 lg:tw-my-16 lg:tw-py-8">
+      <div class="container bracket-font">
+        <h4 class="tw-text-2xl tw-text-gray-900 tw-font-bold lg:tw-text-3xl title-with-border">
+          Läs mer om sparkonto        </h4>
+        <p class="card-text">Här hittar du fler tips och guider för dig som är intresserad av sparkonton och sparräntor.<br/><br/><b>Sparandekalkylatorn</b><br/>Se hur lång tid det kan ta att nå dina sparmål. <a href="/sparande/sparandekalkylator/">Läs mer</a><br/><br/>Vi tar tacksamt emot tips på nya aktörer till vår sparkontojämförelse. Kontakta oss på: <a href="mailto:info@compricer.se">info@compricer.se</a>        </p>
+      </div>
+    </div>
+
+      <div class="container tw-py-6 lg:tw-py-12 tw-my-12 xm:tw-my-14 lg:tw-my-20">
+    <div class="tw-flex tw-items-center tw-justify-between lg:tw-mb-8">
+      <h2 class="tw-font-bold tw-text-xl tw-mb-0 md:tw-text-3xl lg:tw-text-4xl">
+        Senaste nyheterna om        sparande      </h2>
+      <a
+        href="/tips-rad/"
+        class="btn btn-link tw-flex-none tw-ml-2"
+      >
+        Visa alla<span class="tw-hidden lg:tw-inline">&nbsp;nyheter</span>
+        <vue-icon-chevron-right class="icon-block tw-ml-2"></vue-icon-chevron-right>
+      </a>
+    </div>
+    <vue-paginated-slider
+      :items='[{"Type":"newsletterarticle","ArticleId":3226,"Category":"savings","SubCategory":null,"Slug":"nar-lonar-sig-ett-isk-med-nya-skattenivan","Title":"När lönar sig ett ISK med nya skattenivån?","PreText":"Investeringssparkontot har seglat upp i popularitet bland spararna, och framställs ofta som ett förmånligt val. Men nu har spelreglerna ritats om i takt med en fallande börs och en rekordhög skatt 2023. Är ISK verkligen så förmånligt längre?","Text":"N\u0026auml;r regeringens budget lades fram tidigare i november fanns en s\u0026auml;nkt ISK-skatt inte med. Det inneb\u0026auml;r att n\u0026auml;sta \u0026aring;rs skatt kommer bli rekordh\u0026ouml;g och landa p\u0026aring; 0,882%, att...","NumberOfWords":1348,"HasImage":true,"PublishDate":"2022-11-28","ModifyDate":"2022-12-02 10:02:07","AuthorType":"Organization","ArticleLinkUrl":"\/nyheter\/artikel\/nar-lonar-sig-ett-isk-med-nya-skattenivan\/","CategorySweName":"Sparande","SubCategorySweName":null,"ServicePath":"\/pengar\/","SubServicePath":null,"ReadTime":"1 minuts läsning","HumanReadablePublishTime":"4 dagar sedan","ImageUrl":"https:\/\/cdn.compricer.net\/v1\/image\/newsletter\/sv_se\/3226.jpg","PreviewImageUrl":"https:\/\/cdn.compricer.net\/v1\/image\/newsletter\/sv_se\/3226.jpg","ArticleCompleteLinkUrl":"https:\/\/www.compricer.se\/nyheter\/artikel\/nar-lonar-sig-ett-isk-med-nya-skattenivan\/","AuthorIsActive":false},{"Type":"newsletterarticle","ArticleId":3224,"Category":"savings","SubCategory":null,"Slug":"ta-csn-lan-for-att-spara","Title":"Ta CSN-lån för att spara?","PreText":"Hej, bör jag ta ut hela CSN-lånet och sätta in det som jag inte gör över med på ett sparkonto\/fonder eller helt enkelt låna ett lägre CSNbelopp? Vad tycker ni? Räntan är ju noll just nu.","Text":"Det korta svaret \u0026auml;r ja. Dock med den stora brasklappen att du faktiskt har disciplinen att spara pengarna och inte bara lever dyrare.\r\n\r\nCSN-l\u0026aring;net det b\u0026auml;sta l\u0026aring;n du kan ha\r\n\r\nCSN-l\u0026aring;net...","NumberOfWords":1006,"HasImage":true,"PublishDate":"2022-11-28","ModifyDate":"2022-12-02 10:02:15","AuthorType":"Organization","ArticleLinkUrl":"\/nyheter\/artikel\/ta-csn-lan-for-att-spara\/","CategorySweName":"Sparande","SubCategorySweName":null,"ServicePath":"\/pengar\/","SubServicePath":null,"ReadTime":"1 minuts läsning","HumanReadablePublishTime":"4 dagar sedan","ImageUrl":"https:\/\/cdn.compricer.net\/v1\/image\/newsletter\/sv_se\/3224.jpg","PreviewImageUrl":"https:\/\/cdn.compricer.net\/v1\/image\/newsletter\/sv_se\/3224.jpg","ArticleCompleteLinkUrl":"https:\/\/www.compricer.se\/nyheter\/artikel\/ta-csn-lan-for-att-spara\/","AuthorIsActive":false},{"Type":"expertpanelarticle","ArticleId":4352,"Category":"savings","SubCategory":"shares","Slug":"2022-11-18_fraga-far-man-gora-avdrag-for-forluster-aven-om-man-inte-har-nagra-vinster","Title":"Fråga: Får man göra avdrag för förluster även om man inte har några vinster?","Question":"Hej! Att man får göra avdrag för förluster vid försäljning av aktier och fonder\r\ntyp i deklarationen, om man har en depå - rakt av mot vinster har jag koll på -\r\nmen om man inte har några vinster - kan man inte göra några avdrag då?","Text":"Vinster kan kvittas rakt av mot förluster, precis som du säger. Men faktum är att du faktiskt får göra avdrag för förluster även om du inte har någon aktie- eller fondvinst att kvitta förlusten mot. Då...","NumberOfWords":108,"AuthorName":"Nicklas Andersson","AuthorSlug":"nicklas-andersson","AuthorTitle":"Sparekonom Avanza","PublishDate":"2022-11-18","ModifyDate":"2022-09-15 00:00:00","AuthorImageUrl":"https:\/\/resources.compricer.se\/general\/expertpanel\/nicklas_andersson_nobg.png","AuthorType":"Person","ArticleLinkUrl":"\/expertpanelen\/2022-11-18_fraga-far-man-gora-avdrag-for-forluster-aven-om-man-inte-har-nagra-vinster\/","CategorySweName":"Sparande","SubCategorySweName":"Aktiedepå","ServicePath":"\/pengar\/","SubServicePath":"\/aktier\/","ReadTime":"1 minuts läsning","HumanReadablePublishTime":"2 veckor sedan","PreText":"Vinster kan kvittas rakt av mot förluster, precis som du säger. Men faktum är att du faktiskt får göra avdrag för förluster även om du inte har någon aktie- eller fondvinst att kvitta förlusten mot. Då...","HasImage":false,"ImageUrl":"https:\/\/cdn.compricer.net\/v1\/image\/newsletter\/sv_se\/article_image\/320x180.png","ImageWidth":320,"ImageHeight":180,"PreviewImageUrl":"https:\/\/cdn.compricer.net\/v1\/image\/newsletter\/sv_se\/article_image\/320x180.png","ArticleCompleteLinkUrl":"https:\/\/www.compricer.se\/expertpanelen\/2022-11-18_fraga-far-man-gora-avdrag-for-forluster-aven-om-man-inte-har-nagra-vinster\/","AuthorIsActive":true,"Author":{"Slug":"nicklas-andersson","Name":"Nicklas Andersson","Title":"Sparekonom Avanza","ImageName":"nicklas_andersson_nobg.png","Info":"Nicklas Andersson är Sparekonom på Avanza och har flera års erfarenhet av privatekonomiska frågor. Han arbetar dagligen med att vägleda, inspirera och motivera till en bättre privatekonomi och ett bättre sparande med en förkärlek för aktiemarknaden.","InstagramUrl":"https:\/\/www.instagram.com\/investeraren\/","LinkedinUrl":"https:\/\/www.linkedin.com\/in\/investeraren\/","TwitterUrl":"https:\/\/twitter.com\/Investeraren","Email":"nicklas.andersson@avanza.se","Schema":"{\r\n    \u0022@context\u0022: \u0022http:\/\/www.schema.org\u0022,\r\n    \u0022@type\u0022: \u0022person\u0022,\r\n    \u0022name\u0022: \u0022Nicklas Andersson\u0022,\r\n    \u0022description\u0022: \u0022Nicklas Andersson är Sparekonom på Avanza och har flera års erfarenhet av privatekonomiska frågor. Han arbetar dagligen med att vägleda, inspirera och motivera till en bättre privatekonomi och ett bättre sparande med en förkärlek för aktiemarknaden.\u0022,\r\n    \u0022knowsAbout\u0022: \u0022personal finance\u0022,\r\n    \u0022worksFor\u0022: \u0022Avanza\u0022,\r\n    \u0022affiliation\u0022: \u0022Avanza\u0022,\r\n    \u0022memberOf\u0022: \u0022Avanza\u0022,\r\n    \u0022brand\u0022: \u0022Avanza\u0022,\r\n    \u0022jobTitle\u0022: \u0022Sparekonom\u0022,\r\n    \u0022gender\u0022: \u0022male\u0022,\r\n    \u0022url\u0022: \u0022https:\/\/www.compricer.se\/experter\/nicklas-andersson\/\u0022,\r\n    \u0022sameAs\u0022: [\r\n      \u0022https:\/\/se.linkedin.com\/in\/investeraren\u0022,\r\n      \u0022https:\/\/twitter.com\/Investeraren\u0022,\r\n      \u0022https:\/\/www.instagram.com\/investeraren\/\u0022,\r\n      \u0022https:\/\/blogg.avanza.se\/author\/nicand\/\u0022,\r\n      \u0022https:\/\/investors.avanza.se\/media\/press\/2020\/nicklas-andersson-ny-sparekonom-pa-avanza\/\u0022\r\n    ],\r\n    \u0022image\u0022: \u0022https:\/\/resources.compricer.se\/general\/expertpanel\/portraits\/nicklas-andersson.jpg\u0022,\r\n    \u0022address\u0022: {\r\n      \u0022@type\u0022: \u0022PostalAddress\u0022,\r\n      \u0022streetAddress\u0022: \u0022Box 1399\u0022,\r\n      \u0022addressLocality\u0022: \u0022Stockholm\u0022,\r\n      \u0022postalCode\u0022: \u0022111 93\u0022,\r\n      \u0022addressCountry\u0022: \u0022Sweden\u0022\r\n    },\r\n    \u0022workLocation\u0022: \u0022Stockholm\u0022,\r\n    \u0022email\u0022: \u0022nicklas.andersson@avanza.se\u0022,\r\n    \u0022birthDate\u0022: \u00221987-03-29\u0022,\r\n    \u0022alumniOf\u0022: \u0022Stockholm University\u0022,\r\n    \u0022nationality\u0022: \u0022Sweden\u0022,\r\n    \u0022telephone\u0022: \u0022+46790610400\u0022\r\n}\r\n","ImageUrl":"https:\/\/resources.compricer.se\/general\/expertpanel\/portraits\/nicklas-andersson.jpg","ImageSmallUrl":"https:\/\/resources.compricer.se\/general\/expertpanel\/portraits\/sm\/nicklas-andersson.jpg","Firstname":"Nicklas","Url":"\/experter\/nicklas-andersson\/"}}]'
+      :mapping="{ Title: 'Title', Category: 'CategorySweName', CategoryHref: 'ServicePath', SubCategory: 'SubCategorySweName', SubCategoryHref: 'SubServicePath', Description: 'PreText', Date: 'HumanReadablePublishTime', Href: 'ArticleLinkUrl', ReadTime: 'ReadTime' }"
+      :show-category="false"
+    ></vue-paginated-slider>
+  </div>
+
+    <figure class="container md:tw-flex tw-my-12 xm:tw-my-14 lg:tw-my-20">
+  <div class="tw-text-center tw-mx-auto tw-mb-2 tw-w-full tw-h-auto tw-max-w-sm md:tw-flex-initial md:tw-mb-0 md:tw-mr-4 md:tw-max-w-none md:tw-w-1/3 lg:tw-w-1/4">
+    <img
+      src="https://resources.compricer.se/general/author/reviewer_christina.webp"
+      class="tw-image-radius"
+      loading="lazy"
+      width="320"
+      height="231"
+      alt="Christina Sahlberg, Sparekonom"
+    />
+  </div>
+  <div class="md:tw-flex-1 md:tw-w-2/3 lg:tw-w-3/4">
+    <figcaption>
+      <h2 class="tw-font-bold tw-text-2xl lg:tw-text-3xl">Granskad av</h2>
+      <div class="tw-mb-4 tw-font-bold">
+        <a
+          href="/experter/christina-sahlberg/"
+          class="tw-underline"
+        >Christina Sahlberg, Sparekonom på Compricer</a>
+        den 2022-11-24      </div>
+    </figcaption>
+    <p class="tw-text-sm tw-text-gray-800">
+      Christina Sahlberg är sparekonom på Compricer och expert inom privatekonomi. Hon har en masterexamen i ekonomi från Stockholms universitet och en bachelorexamen i psykologi från Swinburne University. Christina förekommer ofta som expert i media där hon svarar på olika privatekonomiska frågor. <br/><br/>År 2018 blev hon utnämnd till Årets Bankprofil och två år senare debuterade hon som författare med boken “Fixa din privatekonomi” på Bokförlaget Polaris. 2021 gav hon ut böckerna “Egen ekonomi” och "Ekonomikalendern" på samma förlag.    </p>
+  </div>
+</figure>
+  </article>
+</vue-page-sparande>
+ </div></div> 
+<footer class="ui-main-footer tw-text-sm lg:tw-text-base tw-pt-10 tw-pb-10 tw-mt-8">
+  <div class="container tw-text-sm lg:tw-text-base">
+    <div class="tw-w-full">
+      <div class="tw-flex tw-flex-col lg:tw-flex-row lg:tw-space-x-10">
+        <div class="tw-w-full lg:tw-w-1/4 tw-mb-10">
+          <h5 class="lg:tw-text-2xl tw-text-xl">Relaterade tjänster          </h5>
+          <hr/>
+                      <ul class="list-unstyled tw-space-y-2 menu-list">
+                                                                                                                                                                                                                                      <li>
+                        <a
+                          class=" active  tw-font-bold"
+                          title="Sparkonto"
+                          href="/sparande/"
+                        >
+                          Sparkonto                        </a>
+                      </li>
+                                          <li>
+                        <a
+                          class=" tw-font-bold"
+                          title="Aktiehandel"
+                          href="/aktier/"
+                        >
+                          Aktiehandel                        </a>
+                      </li>
+                                                                                                                                                                    <li>
+                        <a
+                          class=" tw-font-bold"
+                          title="Privatpension"
+                          href="/pension/privat/"
+                        >
+                          Privatpension                        </a>
+                      </li>
+                                          <li>
+                        <a
+                          class=" tw-font-bold"
+                          title="Tjänstepension"
+                          href="/pension/tjanste/"
+                        >
+                          Tjänstepension                        </a>
+                      </li>
+                                          <li>
+                        <a
+                          class=" tw-font-bold"
+                          title="Premiepension"
+                          href="/pension/premie/"
+                        >
+                          Premiepension                        </a>
+                      </li>
+                                                                                                              </ul>
+                            </div>
+        <div class="tw-w-full lg:tw-w-1/4 tw-mb-10">
+          <h5 class="lg:tw-text-2xl tw-text-xl">Kontakt och villkor</h5>
+          <hr/>
+          <ul class="list-unstyled tw-space-y-2 menu-list">
+            <li>
+              <a
+                href="/om-compricer/"
+                title="Om Compricer"
+              >Om Compricer</a>
+            </li>
+            <li>
+              <a
+                href="/contact/"
+                title="Kontakt"
+              >Kontakt</a>
+            </li>
+            <li>
+              <a
+                href="/press/"
+                title="Press"
+              >Press</a>
+            </li>
+            <li>
+              <a
+                href="https://jobb.compricer.se"
+                title="Jobb"
+                rel="nofollow"
+              >Jobb</a>
+            </li>
+            <li>
+              <a
+                href="/personuppgifter/#personuppgiftspolicy"
+                title="Personuppgifter"
+              >Personuppgifter</a>
+            </li>
+            <li>
+              <a
+                href="/legal/"
+                title="Villkor"
+              >Villkor</a>
+            </li>
+            <li>
+              <a
+                href="/forsakring/information/"
+                title="Försäkringsdistribution"
+              >Försäkringsdistribution</a>
+            </li>
+            <li>
+              <a
+                href="/redaktionell-policy/"
+                title="Redaktionell policy"
+              >Redaktionell policy</a>
+            </li>
+          </ul>
+        </div>
+        <div class="tw-w-full lg:tw-w-1/4 tw-mb-10">
+          <h5 class="tw-text-xl lg:tw-text-2xl">Adress</h5>
+          <hr/>
+          Postadress:<br/>Compricer AB<br/>Västra Järnvägsgatan 21<br/>111 64 Stockholm<br/><br/>Organisationsnummer:<br/>556655-5727        </div>
+        <div class="tw-w-full lg:tw-w-1/4 tw-mb-10">
+          <h5 class="tw-text-xl lg:tw-text-2xl">Kundtjänst</h5>
+          <hr/>
+          Få personlig rådgivning av våra handläggare, helt kostnadsfritt!<br/><br/>Telefonnummer: <a href="tel:+46850002000">08 - 5000 2000</a><br/>E-post: <a href="mailto:info@compricer.se">info@compricer.se</a><br/><br/>Öppettider: 09.00 - 18.00 (vardagar)        </div>
+      </div>
+    </div>
+    <div class="tw-w-full tw-flex tw-flex-col lg:tw-flex-row">
+      <div class="tw-space-y-2">
+        Compricer är Sveriges största jämförelsetjänst för privatekonomi. Vi hjälper varje dag tusentals konsumenter att spara pengar genom att jämföra och byta leverantör inom exempelvis <a href="/forsakring/">försäkringar</a>, <a href="/el/">el</a> och <a href="/lan/">lån</a>. Tjänsten är helt kostnadsfri för dig och vi hjälper även till via telefon om du önskar. Vi är registrerade som försäkringsdistributör hos Bolagsverket och står under Finansinspektionens tillsyn. Du kan känna dig trygg med att använda våra tjänster.      </div>
+    </div>
+    <div class="tw-py-10 tw-flex tw-justify-centre">
+      <div class="tw-flex tw-items-center tw-justify-between tw-flex-col-reverse tw-w-full lg:tw-flex-row">
+        <div class="tw-flex tw-flex-col tw-w-full tw-items-center lg:tw-flex-row">
+          <img
+            src="https://resources.compricer.se/images/coins.png"
+            loading="lazy"
+            class="tw-w-40 tw-h-20 tw-justify-center tw-mb-2 lg:tw-mb-0"
+            alt="Compricer har blivit utsedd till en av Sveriges 100 bästa sajter för åttonde gången (IDG)"
+          />
+          <div
+            class="tw-flex tw-items-center tw-w-58 lg:tw-ml-4 lg:tw-w-48 tw-text-center lg:tw-text-left"><b>Utsedd till en av Sveriges 100 bästa sajter för åttonde gången (IDG)</b>          </div>
+        </div>
+        <div class="tw-mb-10 tw-flex tw-flex-wrap lg:tw-flex-nowrap tw-space-x-2 tw-justify-center lg:tw-mb-0">
+          <a
+            href="https://www.facebook.com/Compricer"
+            aria-label="Facebook"
+            title="Facebook"
+            target="_blank"
+            rel="noreferrer nofollow"
+          >
+                          <vue-icon-facebook
+                class="footer-social-media"
+                alt="Facebook"
+              >
+              </vue-icon-facebook>
+                      </a>
+          <a
+            href="https://www.linkedin.com/company/compricer-ab/mycompany/"
+            aria-label="LinkedIn"
+            title="LinkedIn"
+            target="_blank"
+            rel="noreferrer nofollow"
+          >
+                          <vue-icon-linkedin
+                class="footer-social-media"
+                alt="LinkedIn"
+              ></vue-icon-linkedin>
+                      </a>
+          <a
+            href="https://www.instagram.com/compricer/"
+            aria-label="Instagram"
+            title="Instagram"
+            target="_blank"
+            rel="noreferrer nofollow"
+          >
+
+                          <vue-icon-instagram
+                class="footer-social-media"
+                alt="Instagram"
+              ></vue-icon-instagram>
+                      </a>
+          <a
+            href="https://twitter.com/compricer"
+            aria-label="Twitter"
+            title="Twitter"
+            target="_blank"
+            rel="noreferrer nofollow"
+          >
+                          <vue-icon-twitter
+                class="footer-social-media"
+                alt="Twitter"
+              ></vue-icon-twitter>
+                      </a>
+          <a
+            href="https://www.youtube.com/user/compricer"
+            aria-label="YouTube"
+            title="YouTube"
+            target="_blank"
+            rel="noreferrer nofollow"
+          >
+                          <vue-icon-youtube
+                class="footer-social-media"
+                alt="YouTube"
+              ></vue-icon-youtube>
+                      </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+ <portal-target name="modal" multiple></portal-target><vue-cookie-banner ref="cookie-consent-bar"></vue-cookie-banner><vue-error-modal ref="error-modal"></vue-error-modal><vue-user-session></vue-user-session><vue-bank-id-modal ref="bank-id-modal"></vue-bank-id-modal><vue-modal-wrapper></vue-modal-wrapper>  </div></vue-app></div>   <script>window.frontend = {"Alias":{"gdpr_form_popup_title":"\u003Cb\u003EVarför behöver jag ange denna information?\u003C\/b\u003E","gdpr_form_popup_text":""},"SearchFormValues":{"calculate":{"DefaultValue":"false","ParameterName":"calculate","ParameterValues":null},"domain":{"DefaultValue":"www.compricer.se","ParameterName":"domain","ParameterValues":null},"debug":{"DefaultValue":"","ParameterName":"debug","ParameterValues":null},"amount":{"DefaultValue":40000,"ParameterValues":null,"Editable":false,"Min":null,"Max":null,"ParameterName":"amount"},"showonlydepositguarantee":{"DefaultValue":"yes","ParameterValues":null,"Editable":false,"Min":null,"Max":null,"ParameterName":"showonlydepositguarantee"},"showonlyfreewithdrawals":{"DefaultValue":"no","ParameterValues":null,"Editable":false,"Min":null,"Max":null,"ParameterName":"showonlyfreewithdrawals"},"maxbindtime":{"DefaultValue":0,"ParameterValues":[{"Id":0,"Value":"Rörlig ränta"},{"Id":3,"Value":"3 mån"},{"Id":6,"Value":"6 mån"},{"Id":12,"Value":"1 år"},{"Id":24,"Value":"2 år"},{"Id":36,"Value":"3 år"},{"Id":48,"Value":"4 år"},{"Id":60,"Value":"5 år"}],"Editable":false,"Min":null,"Max":null,"ParameterName":"maxbindtime"},"timetype":{"DefaultValue":"exact","ParameterValues":[{"Id":"exact","Value":"Enbart vald bindningstid"},{"Id":"upto","Value":"Alla bindningstider upp till och med vald bingningstid"}],"Editable":false,"Min":null,"Max":null,"ParameterName":"timetype"}}} ;
+    window.frontend.serverNodeHostName = "oden";
+    window.frontend.serverTimeOffset = Date.now() - 1669993716000 ;
+    window.frontend.resourceBasePath = "https://resources.compricer.se/frontend/dist/";
+    window.frontend.cdnBase = "https://resources.compricer.se";
+    window.frontend.loggedInData = {} ;
+    window.frontend.consent = "1,2";
+    window.frontend.consentCookieExists = "";
+    window.frontend.consentCookieAliases = {"cookie_banner_title_default":"Vi använder cookies","cookie_banner_description_default":"På Compricer samlar vi in data genom cookies för att leverera vår tjänst, förbättra produkten och leverera relevant marknadsföring av Compricers tjänster genom tredje parter såsom Facebook. Du kan själv kontrollera dina inställningar genom att välja inställningar. Du kan även läsa vår \u003Ca href=\u0022\/personuppgifter\/#cookies\u0022\u003Ecookiepolicy\u003C\/a\u003E och \u003Ca href=\u0022\/personuppgifter\/#personuppgiftspolicy\u0022\u003Epersonuppgiftspolicy\u003C\/a\u003E.","cookie_banner_title_settings":"Inställningar för cookies","cookie_banner_description_settings":"Här kan du välja vilka cookies som vi får dela med tredje part genom att kryssa i de kategorier som du godkänner. Vill du läsa mer kan du klicka dig vidare till vår \u003Ca href=\u0022\/personuppgifter\/#cookies\u0022\u003Ecookiepolicy\u003C\/a\u003E.","cookie_banner_button_accept_all":"Godkänn alla","cookie_banner_button_accept":"Jag godkänner","cookie_banner_button_settings":"Inställningar","cookie_banner_button_accept_settings":"Spara val","cookie_banner_level_title_marketing":"Marknadsföring","cookie_banner_level_description_marketing":"Compricer använder cookies för marknadsföring. Genom att bocka i cookies för marknadsföring samtycker du till att Compricer delar din data till Facebook, Bing och Googles plattformar för att förbättra samt genomföra relevant marknadsföring av våra tjänster. De kategorier av personuppgifter vi delar är information om din aktivitet på vår webbsida och din webbläsare. Detta används för att vi ska kunna visa riktad annonsering till dig på andra webbplatser.","cookie_banner_level_title_necessary":"Nödvändiga","cookie_banner_level_description_necessary":"Dessa cookies är nödvändiga för att vår webbsida ska fungera korrekt, därför går de inte att stänga av. Det är exempelvis cookies som känner av var du befinner dig i ansökningsprocessen eller som identifierar dig när du loggar in på Mina sidor.","cookie_banner_level_title_product":"Analys och produktutveckling","cookie_banner_level_description_product":"Dessa cookies ger oss information om hur vår webbsida används och ger oss möjlighet att förbättra produkten så att du som användare får bästa möjliga användarupplevelse."} ;</script>   <script src="https://resources.compricer.se/frontend/dist/js/runtime.46d6540a.js"></script><script src="https://resources.compricer.se/frontend/dist/js/chunk-vendors.aee3d665.js"></script><script src="https://resources.compricer.se/frontend/dist/js/chunk-common.e4f1246f.js"></script><script src="https://resources.compricer.se/frontend/dist/js/vue-page-sparande.e73aeff2.js"></script></body></html>
