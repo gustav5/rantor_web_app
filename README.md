@@ -11,9 +11,24 @@ rantor: Webbsaker + lite logik
 
 ## Uppstart
 ### Front-end
-0. [Installera Elixir](https://elixir-lang.org/install.html)
-0. Installera dependencies, ```cd rantor/ \n mix deps.get
+* [Installera Elixir](https://elixir-lang.org/install.html)
+* Installera dependencies, 
+    * Elixir
+```
+cd rantor/ 
+mix deps.get
+```
+    * node_modules
+```
+cd assets/
+npm install
+```
+* Run the server
+```
+cd ..
+mix phx.server
+```
 
-```sh
 ### Databas
-0. 
+* Install Python
+* Populate the database
