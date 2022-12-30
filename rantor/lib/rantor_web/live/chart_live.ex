@@ -57,12 +57,12 @@ defmodule RantorWeb.ChartLive do
   end
 
   def get_sql_data() do
-    {:ok, db} = :raw_sqlite3.open("../database_sqlite/database1.db")
+    {:ok, db} = :raw_sqlite3.open("../scrape_store/database1.db")
 
     data =
       db
-      |> :raw_sqlite3.q("SELECT name, date, ranta FROM rantor")
-      |> Enum.map(fn {name, date_time, ranta} -> {name, String.replace(date_time, ~r"\T.*$",""),ranta} end)
+      |> :raw_sqlite3.q("SELECT name, date, ranta FROM rantor_2")
+      |> Enum.map(fn {name, date, ranta} -> {name, date, ranta} end)
       |> Enum.group_by(fn {name, _date_time, _ranta} -> name end)
       |> Enum.map(fn {name,x} ->
         {name, Enum.map(x, fn {_name, date_time, ranta} -> {date_time, ranta} end)}
