@@ -8,7 +8,7 @@ defmodule ScrapeStore.Store do
   end
 
   def connect_to_database() do
-    {:ok, db} = :raw_sqlite3.open("database1.db")
+    {:ok, db} = :raw_sqlite3.open("/database/database1.db")
     db
   end
 

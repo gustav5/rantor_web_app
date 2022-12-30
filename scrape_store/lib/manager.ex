@@ -16,6 +16,7 @@ defmodule ScrapeStore.Manager do
 
   @impl true
   def init(state) do
+    scrape_store(state)
     schedule_work(state)
     {:ok, state}
   end
@@ -29,17 +30,16 @@ defmodule ScrapeStore.Manager do
 
   def schedule_work(state) do
     {:ok, millisecs} = ms_to_next_instance()
-    IO.inspect("next scrape and store in : #{inspect(millisecs /1000)} seconds")
-    Process.send_after(ScrapeStoreManager, :work, millisecs) |> IO.inspect()
+    IO.inspect("next scrape and store in: #{inspect(millisecs / 1000 / 60 / 60)} hours")
+    Process.send_after(ScrapeStoreManager, :work, millisecs)
     {:ok, state}
   end
 
-  defp scrape_store(state) do
+  defp scrape_store(_state) do
     case ScrapeStore.Scrape.scrape() do
       {:ok, data} ->
         ScrapeStore.Store.store(data)
         IO.inspect("done!")
-
       error ->
         IO.inspect(inspect(error))
     end
