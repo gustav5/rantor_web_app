@@ -1,7 +1,7 @@
 # rantor_web_app
 Sammanfattning:
 
-Visar ett linjediagram för sparkontoräntor över tid
+Visar ett linjediagram för sparkontoräntor över tid.
 
 Implementation:
 
