@@ -1,8 +1,10 @@
 # rantor_web_app
 Sammanfattning:
+
 Visar ett linjediagram för sparkontoräntor över tid
 
-Implemntation:
+Implementation:
+
 scrape: Scrapear compricer på 0 månader ränta på sparkonton. Skriver till fil.
 
 database_sqlite: Läser från fil. Lagrar i databas.
